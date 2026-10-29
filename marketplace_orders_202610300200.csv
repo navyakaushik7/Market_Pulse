@@ -1,0 +1,1001 @@
+"order_id","order_date","order_hour","service_category","city_zone","order_status","partner_assigned","order_value","customer_rating","tat_minutes","is_sla_breach"
+ORD_10001,2026-10-25,15,Appliance Repair,Zone South,Completed,true,468.77,3,54.0,0
+ORD_10002,2026-10-23,11,Appliance Repair,Zone North,Completed,true,679.62,4,54.0,0
+ORD_10003,2026-10-23,23,Home Cleaning,Zone South,Completed,true,1287.70,4,29.0,0
+ORD_10004,2026-10-26,18,Home Cleaning,Zone East,Completed,true,1392.25,5,22.0,0
+ORD_10005,2026-10-24,15,Home Cleaning,Zone East,Completed,true,1379.58,5,43.0,0
+ORD_10006,2026-10-25,14,Salon Services,Zone North,Completed,true,1183.25,4,44.0,0
+ORD_10007,2026-10-26,2,Salon Services,Zone South,Completed,true,1035.14,5,24.0,0
+ORD_10008,2026-10-21,22,Plumbing,Zone West,Cancelled_Customer,true,406.98,,,0
+ORD_10009,2026-10-25,23,Home Cleaning,Zone South,Completed,true,1374.26,4,45.0,0
+ORD_10010,2026-10-22,4,Salon Services,Zone South,Completed,true,1023.35,3,49.0,0
+ORD_10011,2026-10-21,17,Salon Services,Zone West,Completed,true,1217.26,5,34.0,0
+ORD_10012,2026-10-21,22,Home Cleaning,Zone North,Completed,true,905.99,5,47.0,0
+ORD_10013,2026-10-23,19,Salon Services,Zone North,Completed,true,1043.23,5,54.0,0
+ORD_10014,2026-10-27,0,Plumbing,Zone South,Cancelled_Customer,true,480.49,,,0
+ORD_10015,2026-10-25,17,Appliance Repair,Zone North,Completed,true,834.26,5,52.0,0
+ORD_10016,2026-10-21,19,Home Cleaning,Zone East,Completed,true,1141.02,5,43.0,0
+ORD_10017,2026-10-27,2,Appliance Repair,Zone North,Completed,true,441.83,5,24.0,0
+ORD_10018,2026-10-25,2,Plumbing,Zone South,Completed,true,405.02,5,47.0,0
+ORD_10019,2026-10-25,1,Salon Services,Zone West,Completed,true,1295.12,5,48.0,0
+ORD_10020,2026-10-23,15,Salon Services,Zone North,Completed,true,969.65,1,34.0,0
+ORD_10021,2026-10-26,0,Home Cleaning,Zone East,Completed,true,848.60,4,51.0,0
+ORD_10022,2026-10-22,1,Plumbing,Zone South,Completed,true,612.85,3,32.0,0
+ORD_10023,2026-10-25,20,Plumbing,Zone North,Cancelled_Provider,false,568.35,,,0
+ORD_10024,2026-10-20,13,Home Cleaning,Zone South,Completed,true,933.11,4,28.0,0
+ORD_10025,2026-10-22,21,Home Cleaning,Zone West,Completed,true,1364.62,3,26.0,0
+ORD_10026,2026-10-25,2,Appliance Repair,Zone South,Completed,true,602.21,5,45.0,0
+ORD_10027,2026-10-21,19,Plumbing,Zone East,Cancelled_Customer,true,468.20,,,0
+ORD_10028,2026-10-26,23,Appliance Repair,Zone South,Cancelled_Provider,false,547.35,,,0
+ORD_10029,2026-10-25,1,Salon Services,Zone North,Completed,true,539.11,4,53.0,0
+ORD_10030,2026-10-24,14,Home Cleaning,Zone South,Cancelled_Customer,true,1081.64,,,0
+ORD_10031,2026-10-24,17,Home Cleaning,Zone West,Completed,true,1259.16,5,40.0,0
+ORD_10032,2026-10-22,0,Salon Services,Zone West,Completed,true,603.70,4,49.0,0
+ORD_10033,2026-10-27,4,Home Cleaning,Zone North,Completed,true,1175.34,5,28.0,0
+ORD_10034,2026-10-21,3,Appliance Repair,Zone West,Completed,true,815.87,1,53.0,0
+ORD_10035,2026-10-26,23,Home Cleaning,Zone South,Cancelled_Customer,true,984.13,,,0
+ORD_10036,2026-10-25,23,Appliance Repair,Zone East,Completed,true,500.80,4,36.0,0
+ORD_10037,2026-10-23,3,Home Cleaning,Zone West,Completed,true,1379.54,5,41.0,0
+ORD_10038,2026-10-26,6,Plumbing,Zone West,Completed,true,523.36,4,29.0,0
+ORD_10039,2026-10-26,19,Plumbing,Zone South,Completed,true,315.73,5,22.0,0
+ORD_10040,2026-10-22,1,Salon Services,Zone West,Completed,true,1278.07,5,35.0,0
+ORD_10041,2026-10-27,2,Home Cleaning,Zone South,Completed,true,1314.60,5,46.0,0
+ORD_10042,2026-10-27,1,Appliance Repair,Zone North,Completed,true,590.27,4,50.0,0
+ORD_10043,2026-10-27,4,Appliance Repair,Zone South,Completed,true,410.83,4,41.0,0
+ORD_10044,2026-10-21,5,Plumbing,Zone East,Completed,false,674.69,5,56.0,0
+ORD_10045,2026-10-22,12,Salon Services,Zone East,Cancelled_Provider,false,848.12,,,0
+ORD_10046,2026-10-20,19,Salon Services,Zone North,Completed,true,1066.03,5,54.0,0
+ORD_10047,2026-10-26,1,Plumbing,Zone North,Cancelled_Customer,true,678.55,,,0
+ORD_10048,2026-10-24,18,Salon Services,Zone East,Completed,true,1032.51,5,38.0,0
+ORD_10049,2026-10-21,20,Appliance Repair,Zone East,Completed,true,602.04,4,39.0,0
+ORD_10050,2026-10-24,2,Salon Services,Zone West,Completed,true,852.43,4,52.0,0
+ORD_10051,2026-10-27,1,Salon Services,Zone East,Cancelled_Customer,true,573.71,,,0
+ORD_10052,2026-10-22,0,Appliance Repair,Zone South,Completed,true,411.21,5,50.0,0
+ORD_10053,2026-10-26,14,Appliance Repair,Zone West,Completed,true,646.19,5,20.0,0
+ORD_10054,2026-10-27,2,Plumbing,Zone South,Cancelled_Customer,true,369.35,,,0
+ORD_10055,2026-10-24,21,Home Cleaning,Zone West,Completed,true,892.34,5,53.0,0
+ORD_10056,2026-10-24,18,Plumbing,Zone West,Completed,true,631.23,5,30.0,0
+ORD_10057,2026-10-23,21,Salon Services,Zone West,Completed,true,1000.40,5,24.0,0
+ORD_10058,2026-10-21,17,Home Cleaning,Zone South,Completed,true,904.58,5,29.0,0
+ORD_10059,2026-10-20,20,Plumbing,Zone West,Completed,true,323.91,5,44.0,0
+ORD_10060,2026-10-25,4,Plumbing,Zone West,Completed,true,301.36,5,44.0,0
+ORD_10061,2026-10-26,20,Appliance Repair,Zone West,Completed,true,508.71,4,21.0,0
+ORD_10062,2026-10-26,1,Appliance Repair,Zone West,Cancelled_Provider,false,858.77,,,0
+ORD_10063,2026-10-24,11,Home Cleaning,Zone North,Completed,true,1248.92,4,49.0,0
+ORD_10064,2026-10-22,19,Salon Services,Zone East,Completed,true,1107.98,4,46.0,0
+ORD_10065,2026-10-20,21,Home Cleaning,Zone East,Completed,true,955.96,5,22.0,0
+ORD_10066,2026-10-21,16,Appliance Repair,Zone South,Completed,true,462.11,4,33.0,0
+ORD_10067,2026-10-23,2,Home Cleaning,Zone South,Completed,true,1474.30,5,21.0,0
+ORD_10068,2026-10-25,0,Appliance Repair,Zone North,Completed,true,695.05,3,35.0,0
+ORD_10069,2026-10-26,18,Home Cleaning,Zone North,Completed,true,1042.04,3,43.0,0
+ORD_10070,2026-10-25,18,Plumbing,Zone North,Completed,true,472.41,5,49.0,0
+ORD_10071,2026-10-23,16,Salon Services,Zone West,Completed,true,870.90,4,37.0,0
+ORD_10072,2026-10-22,2,Plumbing,Zone South,Completed,true,599.19,4,44.0,0
+ORD_10073,2026-10-24,3,Appliance Repair,Zone East,Completed,false,797.92,1,80.0,1
+ORD_10074,2026-10-21,14,Plumbing,Zone South,Completed,true,575.24,4,51.0,0
+ORD_10075,2026-10-20,15,Appliance Repair,Zone East,Completed,true,730.98,4,55.0,0
+ORD_10076,2026-10-24,7,Salon Services,Zone West,Completed,true,715.73,5,27.0,0
+ORD_10077,2026-10-22,15,Appliance Repair,Zone South,Completed,true,507.19,5,53.0,0
+ORD_10078,2026-10-21,2,Salon Services,Zone South,Completed,true,740.81,4,28.0,0
+ORD_10079,2026-10-20,23,Plumbing,Zone North,Completed,true,648.09,4,50.0,0
+ORD_10080,2026-10-22,16,Plumbing,Zone North,Completed,true,627.85,5,24.0,0
+ORD_10081,2026-10-25,13,Salon Services,Zone North,Completed,true,1294.13,5,46.0,0
+ORD_10082,2026-10-27,0,Plumbing,Zone West,Completed,true,662.40,4,47.0,0
+ORD_10083,2026-10-24,13,Appliance Repair,Zone South,Completed,true,531.32,4,35.0,0
+ORD_10084,2026-10-20,16,Plumbing,Zone East,Completed,true,312.06,5,38.0,0
+ORD_10085,2026-10-23,14,Salon Services,Zone South,Completed,true,839.11,5,29.0,0
+ORD_10086,2026-10-26,16,Salon Services,Zone East,Completed,true,850.32,5,39.0,0
+ORD_10087,2026-10-22,22,Home Cleaning,Zone North,Completed,true,1421.60,2,36.0,0
+ORD_10088,2026-10-22,5,Home Cleaning,Zone East,Cancelled_Provider,false,1202.37,,,0
+ORD_10089,2026-10-21,21,Salon Services,Zone South,Completed,true,1296.56,5,51.0,0
+ORD_10090,2026-10-23,19,Home Cleaning,Zone South,Completed,true,1029.86,5,38.0,0
+ORD_10091,2026-10-24,2,Plumbing,Zone North,Completed,true,424.81,5,45.0,0
+ORD_10092,2026-10-27,6,Plumbing,Zone West,Completed,true,320.68,5,51.0,0
+ORD_10093,2026-10-26,13,Appliance Repair,Zone East,Completed,true,618.06,2,27.0,0
+ORD_10094,2026-10-26,0,Appliance Repair,Zone East,Completed,true,674.42,4,25.0,0
+ORD_10095,2026-10-27,3,Appliance Repair,Zone West,Completed,true,865.33,4,37.0,0
+ORD_10096,2026-10-24,6,Appliance Repair,Zone West,Completed,true,494.31,5,28.0,0
+ORD_10097,2026-10-23,2,Salon Services,Zone East,Completed,false,1155.44,2,82.0,1
+ORD_10098,2026-10-25,22,Plumbing,Zone East,Completed,true,431.98,4,44.0,0
+ORD_10099,2026-10-23,3,Plumbing,Zone South,Completed,true,641.41,5,40.0,0
+ORD_10100,2026-10-26,4,Appliance Repair,Zone West,Completed,true,881.41,5,41.0,0
+ORD_10101,2026-10-27,3,Plumbing,Zone North,Completed,true,587.98,3,29.0,0
+ORD_10102,2026-10-27,5,Plumbing,Zone North,Completed,true,639.71,4,54.0,0
+ORD_10103,2026-10-23,0,Plumbing,Zone North,Completed,true,545.98,5,38.0,0
+ORD_10104,2026-10-25,15,Home Cleaning,Zone West,Completed,true,915.46,2,21.0,0
+ORD_10105,2026-10-26,13,Plumbing,Zone South,Completed,true,396.68,4,31.0,0
+ORD_10106,2026-10-21,0,Appliance Repair,Zone West,Completed,true,855.41,5,49.0,0
+ORD_10107,2026-10-23,17,Plumbing,Zone East,Completed,true,570.04,5,48.0,0
+ORD_10108,2026-10-24,18,Salon Services,Zone West,Completed,true,1175.24,5,44.0,0
+ORD_10109,2026-10-20,17,Salon Services,Zone East,Completed,true,516.55,4,45.0,0
+ORD_10110,2026-10-25,3,Home Cleaning,Zone West,Cancelled_Customer,true,1381.99,,,0
+ORD_10111,2026-10-27,2,Salon Services,Zone South,Completed,true,1008.29,5,28.0,0
+ORD_10112,2026-10-26,0,Plumbing,Zone North,Completed,true,530.83,5,25.0,0
+ORD_10113,2026-10-23,1,Appliance Repair,Zone East,Cancelled_Customer,true,664.43,,,0
+ORD_10114,2026-10-26,16,Plumbing,Zone East,Completed,true,597.62,4,27.0,0
+ORD_10115,2026-10-20,16,Plumbing,Zone East,Completed,true,335.12,4,36.0,0
+ORD_10116,2026-10-23,19,Salon Services,Zone West,Cancelled_Customer,true,1156.93,,,0
+ORD_10117,2026-10-21,0,Salon Services,Zone South,Completed,true,1017.12,5,49.0,0
+ORD_10118,2026-10-23,0,Home Cleaning,Zone North,Completed,true,1012.06,4,26.0,0
+ORD_10119,2026-10-24,16,Plumbing,Zone South,Completed,true,653.17,5,51.0,0
+ORD_10120,2026-10-22,11,Plumbing,Zone West,Completed,true,679.22,5,26.0,0
+ORD_10121,2026-10-22,23,Home Cleaning,Zone West,Cancelled_Provider,false,992.12,,,0
+ORD_10122,2026-10-27,2,Appliance Repair,Zone North,Completed,true,424.29,5,28.0,0
+ORD_10123,2026-10-21,14,Appliance Repair,Zone South,Completed,true,805.53,5,29.0,0
+ORD_10124,2026-10-24,8,Appliance Repair,Zone East,Completed,true,798.26,3,21.0,0
+ORD_10125,2026-10-23,2,Salon Services,Zone North,Completed,true,638.40,4,46.0,0
+ORD_10126,2026-10-25,14,Salon Services,Zone North,Completed,true,860.60,5,22.0,0
+ORD_10127,2026-10-27,0,Home Cleaning,Zone North,Completed,true,1498.01,5,47.0,0
+ORD_10128,2026-10-24,1,Home Cleaning,Zone East,Completed,true,1224.81,5,37.0,0
+ORD_10129,2026-10-24,23,Salon Services,Zone West,Completed,true,903.44,5,27.0,0
+ORD_10130,2026-10-26,3,Appliance Repair,Zone West,Completed,true,624.78,5,41.0,0
+ORD_10131,2026-10-23,20,Plumbing,Zone East,Completed,true,565.04,5,29.0,0
+ORD_10132,2026-10-23,14,Home Cleaning,Zone West,Completed,true,866.60,5,28.0,0
+ORD_10133,2026-10-25,5,Home Cleaning,Zone West,Completed,true,1046.52,5,47.0,0
+ORD_10134,2026-10-25,13,Salon Services,Zone East,Completed,true,581.88,5,29.0,0
+ORD_10135,2026-10-22,3,Salon Services,Zone North,Completed,true,1109.08,5,47.0,0
+ORD_10136,2026-10-27,2,Home Cleaning,Zone East,Completed,false,819.27,2,66.0,1
+ORD_10137,2026-10-22,3,Plumbing,Zone North,Completed,true,355.75,3,21.0,0
+ORD_10138,2026-10-24,17,Salon Services,Zone South,Completed,true,795.04,5,25.0,0
+ORD_10139,2026-10-21,16,Home Cleaning,Zone East,Completed,true,1109.18,4,48.0,0
+ORD_10140,2026-10-22,1,Plumbing,Zone North,Completed,true,412.30,4,51.0,0
+ORD_10141,2026-10-22,13,Home Cleaning,Zone North,Cancelled_Customer,true,942.10,,,0
+ORD_10142,2026-10-26,16,Salon Services,Zone North,Completed,true,505.18,3,31.0,0
+ORD_10143,2026-10-25,1,Salon Services,Zone North,Completed,true,816.66,1,47.0,0
+ORD_10144,2026-10-21,3,Plumbing,Zone West,Completed,true,414.81,4,40.0,0
+ORD_10145,2026-10-24,21,Salon Services,Zone North,Completed,true,848.37,5,47.0,0
+ORD_10146,2026-10-24,14,Salon Services,Zone South,Completed,true,765.45,5,52.0,0
+ORD_10147,2026-10-24,22,Salon Services,Zone East,Completed,true,1080.90,4,29.0,0
+ORD_10148,2026-10-21,17,Appliance Repair,Zone North,Completed,true,487.57,4,51.0,0
+ORD_10149,2026-10-25,1,Salon Services,Zone East,Completed,true,619.77,5,48.0,0
+ORD_10150,2026-10-26,17,Home Cleaning,Zone East,Completed,true,1122.22,5,43.0,0
+ORD_10151,2026-10-21,0,Plumbing,Zone West,Cancelled_Customer,true,531.13,,,0
+ORD_10152,2026-10-26,3,Appliance Repair,Zone East,Cancelled_Customer,true,701.50,,,0
+ORD_10153,2026-10-23,15,Salon Services,Zone North,Completed,true,902.64,5,35.0,0
+ORD_10154,2026-10-23,22,Salon Services,Zone East,Completed,true,1233.35,5,41.0,0
+ORD_10155,2026-10-21,2,Home Cleaning,Zone East,Cancelled_Customer,false,865.15,,,0
+ORD_10156,2026-10-23,1,Appliance Repair,Zone East,Completed,true,439.75,4,42.0,0
+ORD_10157,2026-10-26,1,Home Cleaning,Zone East,Completed,true,1190.25,5,41.0,0
+ORD_10158,2026-10-26,1,Home Cleaning,Zone West,Completed,true,1154.94,4,39.0,0
+ORD_10159,2026-10-21,18,Appliance Repair,Zone South,Completed,true,898.99,5,38.0,0
+ORD_10160,2026-10-20,22,Home Cleaning,Zone East,Completed,true,1412.47,4,44.0,0
+ORD_10161,2026-10-22,2,Appliance Repair,Zone West,Completed,true,420.85,5,35.0,0
+ORD_10162,2026-10-24,18,Plumbing,Zone South,Completed,true,512.60,5,50.0,0
+ORD_10163,2026-10-21,19,Plumbing,Zone East,Completed,true,610.25,5,46.0,0
+ORD_10164,2026-10-26,16,Salon Services,Zone North,Completed,true,1011.94,5,55.0,0
+ORD_10165,2026-10-26,3,Salon Services,Zone North,Completed,true,1109.49,3,52.0,0
+ORD_10166,2026-10-23,15,Plumbing,Zone East,Completed,true,671.19,4,45.0,0
+ORD_10167,2026-10-21,19,Appliance Repair,Zone North,Completed,true,558.34,5,41.0,0
+ORD_10168,2026-10-21,12,Plumbing,Zone South,Completed,true,602.54,5,20.0,0
+ORD_10169,2026-10-20,17,Plumbing,Zone North,Completed,true,609.47,2,27.0,0
+ORD_10170,2026-10-24,0,Home Cleaning,Zone North,Completed,true,1384.68,1,54.0,0
+ORD_10171,2026-10-24,23,Salon Services,Zone West,Completed,true,500.25,4,46.0,0
+ORD_10172,2026-10-25,14,Home Cleaning,Zone West,Completed,true,1410.33,5,44.0,0
+ORD_10173,2026-10-23,1,Home Cleaning,Zone East,Completed,true,967.79,5,26.0,0
+ORD_10174,2026-10-26,1,Salon Services,Zone East,Completed,true,1149.81,5,49.0,0
+ORD_10175,2026-10-24,0,Home Cleaning,Zone West,Completed,true,824.89,5,32.0,0
+ORD_10176,2026-10-23,4,Plumbing,Zone East,Cancelled_Customer,false,313.65,,,0
+ORD_10177,2026-10-23,3,Salon Services,Zone East,Completed,false,598.58,2,92.0,1
+ORD_10178,2026-10-23,18,Plumbing,Zone East,Completed,true,668.72,5,25.0,0
+ORD_10179,2026-10-20,20,Salon Services,Zone East,Completed,true,581.08,4,38.0,0
+ORD_10180,2026-10-25,1,Plumbing,Zone East,Completed,true,477.85,5,42.0,0
+ORD_10181,2026-10-23,17,Home Cleaning,Zone West,Completed,true,1053.32,5,30.0,0
+ORD_10182,2026-10-22,3,Plumbing,Zone North,Completed,true,349.49,4,43.0,0
+ORD_10183,2026-10-24,11,Plumbing,Zone East,Completed,true,447.81,4,28.0,0
+ORD_10184,2026-10-23,18,Home Cleaning,Zone North,Completed,true,1313.97,5,44.0,0
+ORD_10185,2026-10-20,17,Plumbing,Zone South,Completed,true,697.55,4,51.0,0
+ORD_10186,2026-10-22,3,Plumbing,Zone North,Cancelled_Provider,false,623.21,,,0
+ORD_10187,2026-10-23,0,Salon Services,Zone East,Completed,true,1180.09,5,31.0,0
+ORD_10188,2026-10-24,17,Appliance Repair,Zone South,Completed,true,794.19,5,55.0,0
+ORD_10189,2026-10-24,2,Home Cleaning,Zone North,Cancelled_Provider,false,1015.50,,,0
+ORD_10190,2026-10-25,21,Plumbing,Zone North,Completed,true,349.13,4,24.0,0
+ORD_10191,2026-10-25,22,Appliance Repair,Zone South,Cancelled_Customer,true,615.31,,,0
+ORD_10192,2026-10-21,2,Salon Services,Zone South,Cancelled_Customer,true,628.57,,,0
+ORD_10193,2026-10-21,18,Salon Services,Zone North,Completed,true,699.48,4,55.0,0
+ORD_10194,2026-10-25,18,Appliance Repair,Zone South,Completed,true,484.60,5,41.0,0
+ORD_10195,2026-10-24,12,Home Cleaning,Zone North,Completed,true,1462.98,5,36.0,0
+ORD_10196,2026-10-26,23,Home Cleaning,Zone West,Completed,true,1421.30,4,39.0,0
+ORD_10197,2026-10-27,2,Plumbing,Zone North,Completed,true,574.45,4,46.0,0
+ORD_10198,2026-10-21,18,Salon Services,Zone East,Completed,true,1279.30,4,43.0,0
+ORD_10199,2026-10-20,18,Salon Services,Zone West,Completed,true,697.34,5,38.0,0
+ORD_10200,2026-10-27,0,Appliance Repair,Zone East,Completed,true,865.88,5,32.0,0
+ORD_10201,2026-10-24,7,Salon Services,Zone West,Cancelled_Customer,true,517.54,,,0
+ORD_10202,2026-10-24,21,Salon Services,Zone North,Completed,true,539.43,4,50.0,0
+ORD_10203,2026-10-21,3,Salon Services,Zone East,Completed,false,1110.09,5,48.0,0
+ORD_10204,2026-10-21,19,Plumbing,Zone West,Completed,true,604.76,3,27.0,0
+ORD_10205,2026-10-20,19,Salon Services,Zone South,Completed,true,658.25,2,52.0,0
+ORD_10206,2026-10-20,16,Plumbing,Zone West,Cancelled_Customer,true,358.58,,,0
+ORD_10207,2026-10-21,18,Appliance Repair,Zone West,Completed,true,894.31,5,39.0,0
+ORD_10208,2026-10-25,2,Salon Services,Zone West,Completed,true,1151.60,5,27.0,0
+ORD_10209,2026-10-24,18,Home Cleaning,Zone West,Completed,true,984.87,5,34.0,0
+ORD_10210,2026-10-24,21,Plumbing,Zone South,Completed,true,627.66,4,27.0,0
+ORD_10211,2026-10-23,18,Appliance Repair,Zone West,Completed,true,649.91,5,50.0,0
+ORD_10212,2026-10-26,1,Appliance Repair,Zone East,Completed,true,898.06,4,44.0,0
+ORD_10213,2026-10-21,21,Salon Services,Zone East,Completed,true,987.06,4,35.0,0
+ORD_10214,2026-10-22,17,Salon Services,Zone South,Completed,true,1051.19,4,50.0,0
+ORD_10215,2026-10-27,1,Plumbing,Zone West,Cancelled_Customer,true,626.35,,,0
+ORD_10216,2026-10-26,16,Home Cleaning,Zone East,Completed,true,1445.81,4,50.0,0
+ORD_10217,2026-10-26,22,Salon Services,Zone South,Completed,true,586.38,4,35.0,0
+ORD_10218,2026-10-26,3,Appliance Repair,Zone North,Completed,true,449.10,3,50.0,0
+ORD_10219,2026-10-26,16,Appliance Repair,Zone West,Cancelled_Customer,true,725.45,,,0
+ORD_10220,2026-10-23,21,Salon Services,Zone East,Completed,true,727.33,5,25.0,0
+ORD_10221,2026-10-21,22,Home Cleaning,Zone South,Completed,true,1091.52,5,22.0,0
+ORD_10222,2026-10-24,2,Salon Services,Zone North,Completed,true,506.41,5,26.0,0
+ORD_10223,2026-10-22,18,Plumbing,Zone South,Completed,true,639.42,5,32.0,0
+ORD_10224,2026-10-22,16,Salon Services,Zone South,Completed,true,510.27,5,38.0,0
+ORD_10225,2026-10-26,16,Plumbing,Zone West,Completed,true,505.11,4,26.0,0
+ORD_10226,2026-10-21,21,Home Cleaning,Zone East,Completed,true,1067.50,5,37.0,0
+ORD_10227,2026-10-22,23,Salon Services,Zone East,Completed,true,1053.21,4,27.0,0
+ORD_10228,2026-10-21,20,Salon Services,Zone North,Cancelled_Customer,true,1009.97,,,0
+ORD_10229,2026-10-23,0,Plumbing,Zone South,Cancelled_Provider,false,480.99,,,0
+ORD_10230,2026-10-22,20,Plumbing,Zone South,Completed,true,603.74,4,25.0,0
+ORD_10231,2026-10-25,1,Home Cleaning,Zone North,Cancelled_Customer,true,1379.14,,,0
+ORD_10232,2026-10-21,23,Salon Services,Zone West,Completed,true,591.99,3,51.0,0
+ORD_10233,2026-10-24,21,Appliance Repair,Zone West,Completed,true,627.40,5,49.0,0
+ORD_10234,2026-10-23,1,Home Cleaning,Zone South,Completed,true,1203.82,5,42.0,0
+ORD_10235,2026-10-25,7,Home Cleaning,Zone West,Completed,true,821.21,5,28.0,0
+ORD_10236,2026-10-26,0,Plumbing,Zone West,Cancelled_Customer,true,646.85,,,0
+ORD_10237,2026-10-23,14,Appliance Repair,Zone East,Cancelled_Provider,false,458.32,,,0
+ORD_10238,2026-10-23,22,Home Cleaning,Zone North,Completed,true,1483.94,4,54.0,0
+ORD_10239,2026-10-24,2,Salon Services,Zone South,Cancelled_Customer,true,719.52,,,0
+ORD_10240,2026-10-26,2,Plumbing,Zone North,Completed,true,395.27,4,22.0,0
+ORD_10241,2026-10-26,1,Home Cleaning,Zone West,Completed,true,1106.27,3,23.0,0
+ORD_10242,2026-10-22,17,Salon Services,Zone East,Completed,true,688.52,4,53.0,0
+ORD_10243,2026-10-22,17,Appliance Repair,Zone West,Completed,true,676.93,5,42.0,0
+ORD_10244,2026-10-25,19,Plumbing,Zone West,Completed,true,358.69,4,54.0,0
+ORD_10245,2026-10-26,17,Appliance Repair,Zone West,Completed,true,856.37,5,46.0,0
+ORD_10246,2026-10-21,19,Salon Services,Zone North,Completed,true,1236.78,4,25.0,0
+ORD_10247,2026-10-26,16,Home Cleaning,Zone North,Completed,true,930.71,4,55.0,0
+ORD_10248,2026-10-22,3,Home Cleaning,Zone South,Cancelled_Provider,false,1455.01,,,0
+ORD_10249,2026-10-21,1,Appliance Repair,Zone South,Completed,true,597.32,5,40.0,0
+ORD_10250,2026-10-23,21,Salon Services,Zone East,Cancelled_Customer,true,786.72,,,0
+ORD_10251,2026-10-23,15,Salon Services,Zone South,Completed,true,795.56,5,34.0,0
+ORD_10252,2026-10-20,17,Plumbing,Zone East,Completed,true,359.96,5,44.0,0
+ORD_10253,2026-10-21,22,Salon Services,Zone East,Completed,true,1109.69,4,51.0,0
+ORD_10254,2026-10-26,2,Plumbing,Zone South,Completed,true,665.76,4,23.0,0
+ORD_10255,2026-10-27,3,Home Cleaning,Zone North,Completed,true,1087.67,3,34.0,0
+ORD_10256,2026-10-21,9,Salon Services,Zone North,Completed,true,993.27,5,50.0,0
+ORD_10257,2026-10-20,8,Home Cleaning,Zone North,Completed,true,1169.59,1,38.0,0
+ORD_10258,2026-10-27,1,Appliance Repair,Zone North,Completed,true,858.02,4,35.0,0
+ORD_10259,2026-10-24,17,Plumbing,Zone North,Completed,true,448.22,5,35.0,0
+ORD_10260,2026-10-21,18,Home Cleaning,Zone North,Completed,true,864.45,4,55.0,0
+ORD_10261,2026-10-25,9,Plumbing,Zone West,Completed,true,556.96,5,26.0,0
+ORD_10262,2026-10-20,17,Plumbing,Zone East,Completed,true,317.62,5,37.0,0
+ORD_10263,2026-10-25,0,Salon Services,Zone North,Completed,true,1268.18,5,45.0,0
+ORD_10264,2026-10-22,16,Plumbing,Zone East,Completed,true,452.54,4,25.0,0
+ORD_10265,2026-10-22,13,Home Cleaning,Zone East,Completed,true,1222.62,5,45.0,0
+ORD_10266,2026-10-22,11,Plumbing,Zone West,Completed,true,390.26,4,44.0,0
+ORD_10267,2026-10-25,23,Salon Services,Zone South,Completed,true,1069.49,4,29.0,0
+ORD_10268,2026-10-27,0,Salon Services,Zone East,Completed,true,584.24,4,39.0,0
+ORD_10269,2026-10-26,17,Appliance Repair,Zone West,Completed,true,623.42,3,46.0,0
+ORD_10270,2026-10-20,19,Salon Services,Zone West,Completed,true,508.87,5,25.0,0
+ORD_10271,2026-10-25,3,Appliance Repair,Zone West,Completed,true,483.75,4,37.0,0
+ORD_10272,2026-10-20,16,Salon Services,Zone West,Completed,true,1125.13,5,35.0,0
+ORD_10273,2026-10-23,23,Home Cleaning,Zone South,Cancelled_Customer,true,1012.26,,,0
+ORD_10274,2026-10-23,2,Salon Services,Zone West,Completed,true,766.79,4,28.0,0
+ORD_10275,2026-10-25,4,Salon Services,Zone South,Cancelled_Provider,false,1270.66,,,0
+ORD_10276,2026-10-23,1,Appliance Repair,Zone East,Completed,true,587.03,4,45.0,0
+ORD_10277,2026-10-24,16,Home Cleaning,Zone West,Completed,true,1459.08,5,38.0,0
+ORD_10278,2026-10-21,2,Plumbing,Zone West,Completed,true,354.67,5,36.0,0
+ORD_10279,2026-10-25,20,Plumbing,Zone West,Completed,true,531.90,4,46.0,0
+ORD_10280,2026-10-27,5,Home Cleaning,Zone North,Completed,true,1337.27,4,42.0,0
+ORD_10281,2026-10-24,13,Plumbing,Zone East,Completed,true,685.29,3,20.0,0
+ORD_10282,2026-10-21,22,Appliance Repair,Zone West,Completed,true,586.06,4,52.0,0
+ORD_10283,2026-10-20,21,Home Cleaning,Zone North,Completed,true,1380.92,4,42.0,0
+ORD_10284,2026-10-24,2,Salon Services,Zone West,Completed,true,577.10,4,48.0,0
+ORD_10285,2026-10-22,13,Home Cleaning,Zone East,Completed,true,1252.58,5,30.0,0
+ORD_10286,2026-10-25,17,Appliance Repair,Zone East,Cancelled_Customer,true,678.92,,,0
+ORD_10287,2026-10-22,2,Appliance Repair,Zone West,Completed,true,596.79,4,32.0,0
+ORD_10288,2026-10-23,19,Appliance Repair,Zone East,Completed,true,775.16,5,24.0,0
+ORD_10289,2026-10-27,3,Salon Services,Zone South,Completed,true,865.04,4,51.0,0
+ORD_10290,2026-10-25,18,Plumbing,Zone North,Completed,true,438.17,5,31.0,0
+ORD_10291,2026-10-26,2,Home Cleaning,Zone South,Completed,true,1018.23,4,27.0,0
+ORD_10292,2026-10-25,16,Appliance Repair,Zone West,Completed,true,610.52,5,54.0,0
+ORD_10293,2026-10-26,4,Appliance Repair,Zone West,Completed,true,543.42,5,48.0,0
+ORD_10294,2026-10-26,19,Appliance Repair,Zone South,Cancelled_Provider,false,806.61,,,0
+ORD_10295,2026-10-25,0,Plumbing,Zone West,Completed,true,583.06,3,30.0,0
+ORD_10296,2026-10-21,2,Home Cleaning,Zone East,Completed,false,956.39,3,81.0,1
+ORD_10297,2026-10-26,22,Home Cleaning,Zone East,Completed,true,1341.58,4,43.0,0
+ORD_10298,2026-10-26,12,Appliance Repair,Zone West,Completed,true,450.21,4,35.0,0
+ORD_10299,2026-10-20,21,Home Cleaning,Zone West,Completed,true,1404.70,4,35.0,0
+ORD_10300,2026-10-25,23,Plumbing,Zone South,Completed,true,545.46,5,33.0,0
+ORD_10301,2026-10-24,19,Appliance Repair,Zone East,Completed,true,888.50,5,37.0,0
+ORD_10302,2026-10-25,6,Home Cleaning,Zone South,Completed,true,1472.94,5,23.0,0
+ORD_10303,2026-10-27,0,Appliance Repair,Zone South,Completed,true,472.12,5,35.0,0
+ORD_10304,2026-10-25,19,Salon Services,Zone West,Completed,true,799.14,4,25.0,0
+ORD_10305,2026-10-25,17,Salon Services,Zone West,Completed,true,1259.20,5,20.0,0
+ORD_10306,2026-10-27,1,Salon Services,Zone North,Completed,true,1135.54,5,47.0,0
+ORD_10307,2026-10-23,17,Salon Services,Zone South,Completed,true,951.91,5,41.0,0
+ORD_10308,2026-10-26,13,Plumbing,Zone North,Completed,true,348.69,4,48.0,0
+ORD_10309,2026-10-23,17,Appliance Repair,Zone East,Cancelled_Customer,true,478.49,,,0
+ORD_10310,2026-10-22,15,Home Cleaning,Zone East,Completed,true,1264.16,4,23.0,0
+ORD_10311,2026-10-23,1,Plumbing,Zone North,Completed,true,580.48,3,50.0,0
+ORD_10312,2026-10-24,17,Home Cleaning,Zone North,Completed,true,1285.92,5,47.0,0
+ORD_10313,2026-10-23,14,Home Cleaning,Zone North,Cancelled_Customer,true,1018.35,,,0
+ORD_10314,2026-10-21,19,Appliance Repair,Zone South,Completed,true,433.21,4,30.0,0
+ORD_10315,2026-10-25,17,Plumbing,Zone West,Completed,true,642.99,3,26.0,0
+ORD_10316,2026-10-20,23,Plumbing,Zone East,Completed,true,615.43,4,25.0,0
+ORD_10317,2026-10-25,0,Home Cleaning,Zone East,Completed,true,942.81,5,32.0,0
+ORD_10318,2026-10-23,0,Appliance Repair,Zone West,Completed,true,591.94,4,24.0,0
+ORD_10319,2026-10-21,6,Appliance Repair,Zone West,Completed,true,829.41,4,43.0,0
+ORD_10320,2026-10-22,1,Home Cleaning,Zone North,Completed,true,808.66,5,23.0,0
+ORD_10321,2026-10-23,22,Plumbing,Zone West,Completed,true,579.72,4,54.0,0
+ORD_10322,2026-10-21,17,Appliance Repair,Zone South,Completed,true,667.20,4,24.0,0
+ORD_10323,2026-10-24,1,Home Cleaning,Zone South,Completed,true,859.35,5,49.0,0
+ORD_10324,2026-10-20,18,Appliance Repair,Zone North,Completed,true,405.33,4,20.0,0
+ORD_10325,2026-10-22,22,Salon Services,Zone South,Completed,true,796.50,5,37.0,0
+ORD_10326,2026-10-21,2,Plumbing,Zone East,Completed,true,508.54,2,76.0,1
+ORD_10327,2026-10-22,13,Appliance Repair,Zone East,Completed,true,477.65,4,27.0,0
+ORD_10328,2026-10-24,8,Home Cleaning,Zone South,Completed,true,831.19,4,29.0,0
+ORD_10329,2026-10-26,12,Plumbing,Zone South,Completed,true,427.72,4,40.0,0
+ORD_10330,2026-10-20,23,Home Cleaning,Zone South,Completed,true,955.23,5,22.0,0
+ORD_10331,2026-10-21,3,Salon Services,Zone East,Completed,false,568.11,4,57.0,0
+ORD_10332,2026-10-26,18,Plumbing,Zone East,Completed,true,535.68,5,32.0,0
+ORD_10333,2026-10-25,1,Home Cleaning,Zone West,Completed,true,815.74,5,20.0,0
+ORD_10334,2026-10-21,1,Salon Services,Zone North,Cancelled_Provider,false,663.16,,,0
+ORD_10335,2026-10-23,22,Salon Services,Zone North,Completed,true,534.12,4,53.0,0
+ORD_10336,2026-10-22,21,Home Cleaning,Zone South,Completed,true,1245.05,4,23.0,0
+ORD_10337,2026-10-21,17,Salon Services,Zone West,Completed,true,1059.58,4,40.0,0
+ORD_10338,2026-10-21,14,Home Cleaning,Zone South,Completed,true,872.96,4,40.0,0
+ORD_10339,2026-10-24,19,Plumbing,Zone East,Completed,true,484.34,4,25.0,0
+ORD_10340,2026-10-25,18,Home Cleaning,Zone South,Completed,true,1384.15,5,25.0,0
+ORD_10341,2026-10-22,19,Salon Services,Zone East,Completed,true,1155.07,5,45.0,0
+ORD_10342,2026-10-25,1,Plumbing,Zone North,Completed,true,620.56,3,20.0,0
+ORD_10343,2026-10-27,6,Plumbing,Zone East,Cancelled_Customer,true,573.51,,,0
+ORD_10344,2026-10-20,23,Home Cleaning,Zone North,Completed,true,1497.01,5,48.0,0
+ORD_10345,2026-10-21,3,Salon Services,Zone North,Completed,true,533.16,5,30.0,0
+ORD_10346,2026-10-24,2,Home Cleaning,Zone West,Completed,true,1277.25,5,33.0,0
+ORD_10347,2026-10-22,18,Home Cleaning,Zone South,Completed,true,1252.09,4,55.0,0
+ORD_10348,2026-10-20,18,Appliance Repair,Zone South,Completed,true,714.38,5,21.0,0
+ORD_10349,2026-10-27,1,Plumbing,Zone East,Completed,true,664.07,4,44.0,0
+ORD_10350,2026-10-20,18,Salon Services,Zone North,Completed,true,1145.92,5,42.0,0
+ORD_10351,2026-10-22,6,Appliance Repair,Zone East,Completed,true,665.84,5,23.0,0
+ORD_10352,2026-10-21,23,Salon Services,Zone South,Completed,true,639.88,5,42.0,0
+ORD_10353,2026-10-21,1,Appliance Repair,Zone South,Completed,true,817.35,4,51.0,0
+ORD_10354,2026-10-21,22,Appliance Repair,Zone South,Completed,true,408.96,5,41.0,0
+ORD_10355,2026-10-22,2,Appliance Repair,Zone East,Completed,true,428.78,1,94.0,1
+ORD_10356,2026-10-25,3,Plumbing,Zone North,Completed,true,433.62,5,30.0,0
+ORD_10357,2026-10-24,2,Salon Services,Zone South,Completed,true,1064.75,4,42.0,0
+ORD_10358,2026-10-25,2,Salon Services,Zone South,Completed,true,641.17,5,45.0,0
+ORD_10359,2026-10-27,5,Salon Services,Zone South,Completed,true,1010.72,3,51.0,0
+ORD_10360,2026-10-25,14,Appliance Repair,Zone North,Completed,true,809.83,4,41.0,0
+ORD_10361,2026-10-22,17,Salon Services,Zone East,Completed,true,1128.62,4,23.0,0
+ORD_10362,2026-10-25,20,Plumbing,Zone West,Completed,true,651.71,3,44.0,0
+ORD_10363,2026-10-24,2,Appliance Repair,Zone South,Completed,true,624.64,4,22.0,0
+ORD_10364,2026-10-22,17,Salon Services,Zone South,Completed,true,1209.35,4,24.0,0
+ORD_10365,2026-10-20,18,Plumbing,Zone North,Completed,true,471.53,4,47.0,0
+ORD_10366,2026-10-20,18,Salon Services,Zone East,Completed,true,736.92,5,45.0,0
+ORD_10367,2026-10-26,22,Home Cleaning,Zone West,Completed,true,860.34,4,50.0,0
+ORD_10368,2026-10-20,17,Home Cleaning,Zone West,Completed,true,1389.64,4,45.0,0
+ORD_10369,2026-10-25,17,Plumbing,Zone South,Completed,true,447.41,4,31.0,0
+ORD_10370,2026-10-22,20,Salon Services,Zone North,Completed,true,619.90,3,26.0,0
+ORD_10371,2026-10-23,2,Appliance Repair,Zone North,Completed,true,819.40,5,46.0,0
+ORD_10372,2026-10-26,3,Appliance Repair,Zone West,Completed,true,548.43,4,22.0,0
+ORD_10373,2026-10-25,2,Appliance Repair,Zone North,Completed,true,873.63,5,30.0,0
+ORD_10374,2026-10-26,16,Home Cleaning,Zone West,Completed,true,940.34,5,29.0,0
+ORD_10375,2026-10-22,18,Home Cleaning,Zone North,Completed,true,1070.67,5,40.0,0
+ORD_10376,2026-10-24,21,Plumbing,Zone North,Completed,true,464.78,5,26.0,0
+ORD_10377,2026-10-25,2,Salon Services,Zone West,Completed,true,710.31,2,50.0,0
+ORD_10378,2026-10-22,20,Plumbing,Zone North,Completed,true,457.32,2,35.0,0
+ORD_10379,2026-10-24,4,Home Cleaning,Zone East,Completed,false,1371.17,4,76.0,1
+ORD_10380,2026-10-25,15,Appliance Repair,Zone East,Completed,true,886.11,4,40.0,0
+ORD_10381,2026-10-24,0,Plumbing,Zone South,Completed,true,664.37,5,51.0,0
+ORD_10382,2026-10-26,19,Appliance Repair,Zone North,Completed,true,554.56,5,28.0,0
+ORD_10383,2026-10-25,3,Appliance Repair,Zone South,Completed,true,817.49,3,49.0,0
+ORD_10384,2026-10-23,1,Plumbing,Zone West,Completed,true,553.16,4,21.0,0
+ORD_10385,2026-10-23,23,Plumbing,Zone East,Completed,true,436.70,5,36.0,0
+ORD_10386,2026-10-25,15,Home Cleaning,Zone South,Completed,true,1396.67,5,33.0,0
+ORD_10387,2026-10-25,17,Plumbing,Zone North,Cancelled_Provider,false,644.85,,,0
+ORD_10388,2026-10-25,9,Appliance Repair,Zone North,Completed,true,510.89,5,39.0,0
+ORD_10389,2026-10-26,0,Plumbing,Zone East,Completed,true,482.60,5,39.0,0
+ORD_10390,2026-10-27,0,Home Cleaning,Zone East,Completed,true,1192.02,4,38.0,0
+ORD_10391,2026-10-20,21,Salon Services,Zone East,Completed,true,707.92,4,39.0,0
+ORD_10392,2026-10-25,2,Plumbing,Zone East,Cancelled_Customer,false,571.30,,,0
+ORD_10393,2026-10-22,17,Plumbing,Zone North,Cancelled_Provider,false,532.21,,,0
+ORD_10394,2026-10-26,16,Appliance Repair,Zone West,Completed,true,852.26,4,52.0,0
+ORD_10395,2026-10-22,2,Appliance Repair,Zone East,Completed,false,447.80,3,91.0,1
+ORD_10396,2026-10-27,3,Salon Services,Zone North,Completed,true,676.80,4,39.0,0
+ORD_10397,2026-10-22,19,Plumbing,Zone North,Completed,true,487.21,4,24.0,0
+ORD_10398,2026-10-21,22,Plumbing,Zone East,Completed,true,464.24,3,29.0,0
+ORD_10399,2026-10-21,18,Plumbing,Zone South,Completed,true,425.55,4,25.0,0
+ORD_10400,2026-10-26,6,Home Cleaning,Zone North,Completed,true,1115.44,5,30.0,0
+ORD_10401,2026-10-21,22,Home Cleaning,Zone South,Completed,true,1229.14,4,45.0,0
+ORD_10402,2026-10-23,19,Appliance Repair,Zone East,Cancelled_Customer,true,874.03,,,0
+ORD_10403,2026-10-27,2,Home Cleaning,Zone South,Completed,true,957.39,3,39.0,0
+ORD_10404,2026-10-23,22,Home Cleaning,Zone North,Completed,true,1007.74,5,53.0,0
+ORD_10405,2026-10-22,20,Salon Services,Zone West,Completed,true,786.40,1,45.0,0
+ORD_10406,2026-10-22,1,Home Cleaning,Zone South,Completed,true,885.21,4,22.0,0
+ORD_10407,2026-10-25,17,Home Cleaning,Zone North,Completed,true,1262.38,2,21.0,0
+ORD_10408,2026-10-20,20,Salon Services,Zone West,Completed,true,1060.49,4,20.0,0
+ORD_10409,2026-10-25,15,Appliance Repair,Zone West,Completed,true,814.33,4,27.0,0
+ORD_10410,2026-10-26,15,Appliance Repair,Zone East,Cancelled_Provider,false,814.75,,,0
+ORD_10411,2026-10-23,1,Home Cleaning,Zone West,Completed,true,1436.25,4,50.0,0
+ORD_10412,2026-10-20,9,Home Cleaning,Zone West,Completed,true,903.40,3,52.0,0
+ORD_10413,2026-10-25,15,Appliance Repair,Zone West,Completed,true,893.33,3,49.0,0
+ORD_10414,2026-10-26,16,Salon Services,Zone East,Completed,true,1140.28,3,27.0,0
+ORD_10415,2026-10-27,3,Appliance Repair,Zone South,Cancelled_Customer,true,563.33,,,0
+ORD_10416,2026-10-24,17,Salon Services,Zone East,Completed,true,645.30,4,49.0,0
+ORD_10417,2026-10-24,1,Plumbing,Zone South,Completed,true,344.22,5,23.0,0
+ORD_10418,2026-10-26,16,Plumbing,Zone West,Completed,true,371.50,5,42.0,0
+ORD_10419,2026-10-27,1,Appliance Repair,Zone West,Completed,true,859.20,4,46.0,0
+ORD_10420,2026-10-20,17,Appliance Repair,Zone East,Completed,true,658.55,4,26.0,0
+ORD_10421,2026-10-25,17,Plumbing,Zone South,Completed,true,634.61,1,23.0,0
+ORD_10422,2026-10-21,22,Plumbing,Zone South,Completed,true,328.95,4,35.0,0
+ORD_10423,2026-10-22,13,Plumbing,Zone West,Completed,true,625.84,5,48.0,0
+ORD_10424,2026-10-23,15,Salon Services,Zone North,Completed,true,1283.54,3,21.0,0
+ORD_10425,2026-10-23,12,Home Cleaning,Zone East,Completed,true,1422.08,5,49.0,0
+ORD_10426,2026-10-23,2,Plumbing,Zone East,Cancelled_Customer,false,523.06,,,0
+ORD_10427,2026-10-26,0,Home Cleaning,Zone North,Completed,true,1330.52,4,41.0,0
+ORD_10428,2026-10-26,5,Salon Services,Zone North,Completed,true,535.62,5,28.0,0
+ORD_10429,2026-10-26,1,Appliance Repair,Zone South,Completed,true,459.37,4,33.0,0
+ORD_10430,2026-10-26,16,Plumbing,Zone North,Completed,true,669.65,5,27.0,0
+ORD_10431,2026-10-23,21,Appliance Repair,Zone West,Completed,true,401.17,5,55.0,0
+ORD_10432,2026-10-26,23,Appliance Repair,Zone South,Completed,true,764.25,5,44.0,0
+ORD_10433,2026-10-25,3,Plumbing,Zone West,Cancelled_Customer,true,690.80,,,0
+ORD_10434,2026-10-26,17,Salon Services,Zone West,Completed,true,1142.84,4,52.0,0
+ORD_10435,2026-10-25,23,Appliance Repair,Zone South,Completed,true,503.86,5,42.0,0
+ORD_10436,2026-10-22,6,Salon Services,Zone North,Completed,true,1107.62,5,46.0,0
+ORD_10437,2026-10-26,22,Plumbing,Zone North,Completed,true,508.09,3,29.0,0
+ORD_10438,2026-10-20,16,Appliance Repair,Zone East,Completed,true,740.70,5,23.0,0
+ORD_10439,2026-10-22,17,Salon Services,Zone West,Completed,true,580.98,5,55.0,0
+ORD_10440,2026-10-26,0,Salon Services,Zone North,Completed,true,1240.19,5,40.0,0
+ORD_10441,2026-10-20,9,Plumbing,Zone South,Completed,true,663.59,5,43.0,0
+ORD_10442,2026-10-25,1,Appliance Repair,Zone East,Cancelled_Provider,false,623.41,,,0
+ORD_10443,2026-10-20,16,Home Cleaning,Zone West,Completed,true,827.44,3,36.0,0
+ORD_10444,2026-10-25,3,Plumbing,Zone South,Cancelled_Customer,true,314.98,,,0
+ORD_10445,2026-10-24,13,Salon Services,Zone West,Completed,true,1130.93,5,24.0,0
+ORD_10446,2026-10-22,22,Home Cleaning,Zone South,Completed,true,1090.15,4,25.0,0
+ORD_10447,2026-10-22,0,Salon Services,Zone South,Completed,true,1259.25,5,50.0,0
+ORD_10448,2026-10-27,1,Home Cleaning,Zone East,Cancelled_Customer,true,1110.97,,,0
+ORD_10449,2026-10-25,4,Salon Services,Zone West,Cancelled_Customer,true,1231.75,,,0
+ORD_10450,2026-10-23,17,Home Cleaning,Zone East,Completed,true,1159.02,2,51.0,0
+ORD_10451,2026-10-25,16,Home Cleaning,Zone South,Completed,true,1479.14,1,54.0,0
+ORD_10452,2026-10-20,17,Appliance Repair,Zone West,Completed,true,816.83,5,47.0,0
+ORD_10453,2026-10-21,1,Plumbing,Zone East,Completed,true,314.15,5,31.0,0
+ORD_10454,2026-10-24,14,Salon Services,Zone West,Completed,true,809.43,4,47.0,0
+ORD_10455,2026-10-24,0,Home Cleaning,Zone North,Completed,true,1289.62,3,52.0,0
+ORD_10456,2026-10-27,1,Salon Services,Zone West,Completed,true,804.13,4,21.0,0
+ORD_10457,2026-10-24,17,Salon Services,Zone South,Cancelled_Customer,true,737.45,,,0
+ORD_10458,2026-10-27,3,Home Cleaning,Zone South,Completed,true,885.26,4,45.0,0
+ORD_10459,2026-10-20,18,Salon Services,Zone South,Completed,true,829.12,3,52.0,0
+ORD_10460,2026-10-21,17,Appliance Repair,Zone North,Completed,true,489.68,5,23.0,0
+ORD_10461,2026-10-24,21,Salon Services,Zone North,Completed,true,699.55,5,51.0,0
+ORD_10462,2026-10-22,15,Home Cleaning,Zone East,Cancelled_Customer,true,1232.66,,,0
+ORD_10463,2026-10-22,21,Salon Services,Zone South,Completed,true,951.44,5,40.0,0
+ORD_10464,2026-10-21,8,Appliance Repair,Zone West,Completed,true,537.34,5,41.0,0
+ORD_10465,2026-10-23,21,Plumbing,Zone North,Completed,true,369.31,5,37.0,0
+ORD_10466,2026-10-22,3,Home Cleaning,Zone North,Completed,true,1423.47,5,21.0,0
+ORD_10467,2026-10-24,20,Home Cleaning,Zone East,Cancelled_Provider,false,1179.43,,,0
+ORD_10468,2026-10-24,0,Plumbing,Zone South,Completed,true,655.58,3,38.0,0
+ORD_10469,2026-10-24,22,Home Cleaning,Zone South,Completed,true,1392.59,5,30.0,0
+ORD_10470,2026-10-21,21,Appliance Repair,Zone West,Completed,true,868.59,4,51.0,0
+ORD_10471,2026-10-22,19,Appliance Repair,Zone East,Cancelled_Customer,true,593.05,,,0
+ORD_10472,2026-10-20,12,Home Cleaning,Zone East,Completed,true,1383.41,5,54.0,0
+ORD_10473,2026-10-24,0,Home Cleaning,Zone East,Cancelled_Customer,true,1062.43,,,0
+ORD_10474,2026-10-24,20,Salon Services,Zone West,Cancelled_Customer,true,1133.13,,,0
+ORD_10475,2026-10-20,22,Appliance Repair,Zone South,Completed,true,437.54,4,33.0,0
+ORD_10476,2026-10-21,19,Home Cleaning,Zone South,Completed,true,1089.23,4,27.0,0
+ORD_10477,2026-10-23,21,Plumbing,Zone North,Completed,true,396.47,3,30.0,0
+ORD_10478,2026-10-24,12,Home Cleaning,Zone South,Completed,true,979.78,5,45.0,0
+ORD_10479,2026-10-25,0,Salon Services,Zone North,Completed,true,672.27,5,50.0,0
+ORD_10480,2026-10-21,17,Appliance Repair,Zone South,Completed,true,710.61,5,30.0,0
+ORD_10481,2026-10-23,4,Home Cleaning,Zone South,Completed,true,1063.75,4,21.0,0
+ORD_10482,2026-10-27,3,Appliance Repair,Zone North,Cancelled_Customer,true,487.71,,,0
+ORD_10483,2026-10-24,12,Home Cleaning,Zone North,Completed,true,1136.57,5,54.0,0
+ORD_10484,2026-10-27,1,Plumbing,Zone East,Completed,true,648.93,4,47.0,0
+ORD_10485,2026-10-26,21,Salon Services,Zone North,Completed,true,839.39,5,34.0,0
+ORD_10486,2026-10-20,18,Plumbing,Zone East,Completed,true,374.61,5,20.0,0
+ORD_10487,2026-10-20,22,Appliance Repair,Zone East,Completed,true,603.42,5,47.0,0
+ORD_10488,2026-10-22,17,Salon Services,Zone East,Completed,true,1292.44,4,33.0,0
+ORD_10489,2026-10-26,23,Plumbing,Zone East,Completed,true,694.40,5,45.0,0
+ORD_10490,2026-10-27,3,Appliance Repair,Zone West,Cancelled_Customer,true,790.55,,,0
+ORD_10491,2026-10-20,17,Salon Services,Zone North,Cancelled_Provider,false,627.59,,,0
+ORD_10492,2026-10-21,2,Plumbing,Zone West,Completed,true,334.26,3,43.0,0
+ORD_10493,2026-10-21,1,Salon Services,Zone North,Completed,true,1255.57,4,51.0,0
+ORD_10494,2026-10-22,3,Salon Services,Zone South,Completed,true,525.89,5,53.0,0
+ORD_10495,2026-10-24,16,Appliance Repair,Zone North,Completed,true,886.82,5,37.0,0
+ORD_10496,2026-10-23,0,Appliance Repair,Zone North,Completed,true,767.46,4,25.0,0
+ORD_10497,2026-10-26,2,Salon Services,Zone East,Completed,true,1269.63,4,74.0,1
+ORD_10498,2026-10-24,8,Home Cleaning,Zone North,Completed,true,1151.22,5,27.0,0
+ORD_10499,2026-10-23,3,Salon Services,Zone West,Completed,true,1271.84,5,35.0,0
+ORD_10500,2026-10-26,21,Home Cleaning,Zone West,Completed,true,880.39,5,34.0,0
+ORD_10501,2026-10-22,2,Home Cleaning,Zone East,Completed,false,972.78,5,49.0,0
+ORD_10502,2026-10-21,21,Salon Services,Zone South,Completed,true,1256.69,4,32.0,0
+ORD_10503,2026-10-21,17,Salon Services,Zone South,Completed,true,682.37,4,42.0,0
+ORD_10504,2026-10-20,15,Plumbing,Zone North,Completed,true,604.70,5,22.0,0
+ORD_10505,2026-10-23,0,Salon Services,Zone West,Completed,true,645.30,4,52.0,0
+ORD_10506,2026-10-22,1,Plumbing,Zone West,Completed,true,674.86,4,42.0,0
+ORD_10507,2026-10-26,2,Plumbing,Zone East,Completed,true,574.68,2,69.0,1
+ORD_10508,2026-10-22,19,Appliance Repair,Zone East,Completed,true,517.57,4,41.0,0
+ORD_10509,2026-10-23,20,Salon Services,Zone East,Completed,true,1182.46,5,31.0,0
+ORD_10510,2026-10-25,1,Salon Services,Zone South,Completed,true,943.27,3,32.0,0
+ORD_10511,2026-10-25,16,Appliance Repair,Zone West,Cancelled_Provider,false,648.80,,,0
+ORD_10512,2026-10-27,0,Salon Services,Zone West,Completed,true,739.03,4,23.0,0
+ORD_10513,2026-10-25,16,Salon Services,Zone West,Completed,true,1170.18,4,41.0,0
+ORD_10514,2026-10-22,23,Salon Services,Zone East,Completed,true,514.87,5,32.0,0
+ORD_10515,2026-10-26,0,Salon Services,Zone East,Completed,true,759.07,5,48.0,0
+ORD_10516,2026-10-24,0,Appliance Repair,Zone South,Cancelled_Customer,true,719.29,,,0
+ORD_10517,2026-10-24,0,Home Cleaning,Zone North,Completed,true,912.40,5,40.0,0
+ORD_10518,2026-10-25,17,Salon Services,Zone West,Cancelled_Customer,true,1123.78,,,0
+ORD_10519,2026-10-25,23,Appliance Repair,Zone South,Completed,true,826.11,5,35.0,0
+ORD_10520,2026-10-26,1,Appliance Repair,Zone West,Completed,true,450.50,4,50.0,0
+ORD_10521,2026-10-21,2,Home Cleaning,Zone North,Completed,true,982.72,4,44.0,0
+ORD_10522,2026-10-22,1,Appliance Repair,Zone South,Completed,true,662.37,5,22.0,0
+ORD_10523,2026-10-27,4,Plumbing,Zone East,Completed,true,518.42,2,82.0,1
+ORD_10524,2026-10-26,1,Plumbing,Zone East,Completed,true,662.57,5,34.0,0
+ORD_10525,2026-10-23,18,Appliance Repair,Zone East,Completed,true,404.28,4,28.0,0
+ORD_10526,2026-10-23,22,Plumbing,Zone West,Completed,true,418.84,5,38.0,0
+ORD_10527,2026-10-26,8,Plumbing,Zone West,Completed,true,456.90,5,44.0,0
+ORD_10528,2026-10-21,17,Appliance Repair,Zone East,Completed,true,541.34,4,37.0,0
+ORD_10529,2026-10-26,14,Home Cleaning,Zone West,Completed,true,1231.41,4,51.0,0
+ORD_10530,2026-10-20,16,Appliance Repair,Zone North,Completed,true,540.06,5,48.0,0
+ORD_10531,2026-10-21,15,Appliance Repair,Zone East,Completed,true,609.12,5,51.0,0
+ORD_10532,2026-10-24,1,Home Cleaning,Zone South,Completed,true,838.23,4,24.0,0
+ORD_10533,2026-10-21,16,Plumbing,Zone North,Completed,true,347.78,4,35.0,0
+ORD_10534,2026-10-23,17,Plumbing,Zone North,Cancelled_Provider,false,507.46,,,0
+ORD_10535,2026-10-23,19,Salon Services,Zone South,Completed,true,1002.33,4,55.0,0
+ORD_10536,2026-10-22,21,Salon Services,Zone North,Completed,true,1189.93,4,27.0,0
+ORD_10537,2026-10-23,18,Salon Services,Zone North,Completed,true,815.65,5,22.0,0
+ORD_10538,2026-10-25,21,Salon Services,Zone North,Completed,true,697.98,5,41.0,0
+ORD_10539,2026-10-27,0,Appliance Repair,Zone North,Completed,true,461.91,5,55.0,0
+ORD_10540,2026-10-26,18,Appliance Repair,Zone North,Completed,true,743.62,4,28.0,0
+ORD_10541,2026-10-20,21,Salon Services,Zone West,Completed,true,650.82,4,42.0,0
+ORD_10542,2026-10-23,17,Appliance Repair,Zone North,Completed,true,664.57,4,36.0,0
+ORD_10543,2026-10-23,8,Plumbing,Zone South,Completed,true,652.17,5,43.0,0
+ORD_10544,2026-10-21,18,Plumbing,Zone South,Completed,true,508.63,4,55.0,0
+ORD_10545,2026-10-22,18,Home Cleaning,Zone North,Completed,true,1165.24,4,28.0,0
+ORD_10546,2026-10-20,17,Home Cleaning,Zone North,Completed,true,1198.71,4,51.0,0
+ORD_10547,2026-10-25,23,Appliance Repair,Zone North,Cancelled_Customer,true,405.54,,,0
+ORD_10548,2026-10-25,22,Home Cleaning,Zone West,Completed,true,1359.71,5,55.0,0
+ORD_10549,2026-10-24,2,Home Cleaning,Zone East,Cancelled_Customer,false,1169.31,,,0
+ORD_10550,2026-10-21,4,Home Cleaning,Zone South,Completed,true,1171.16,5,53.0,0
+ORD_10551,2026-10-25,0,Plumbing,Zone North,Completed,true,605.51,5,49.0,0
+ORD_10552,2026-10-24,3,Appliance Repair,Zone West,Completed,true,651.35,5,54.0,0
+ORD_10553,2026-10-24,4,Salon Services,Zone East,Cancelled_Customer,false,828.87,,,0
+ORD_10554,2026-10-24,17,Plumbing,Zone East,Completed,true,443.00,1,45.0,0
+ORD_10555,2026-10-21,6,Appliance Repair,Zone East,Cancelled_Provider,false,402.28,,,0
+ORD_10556,2026-10-22,3,Salon Services,Zone South,Completed,true,574.43,3,29.0,0
+ORD_10557,2026-10-23,3,Salon Services,Zone East,Completed,true,572.52,1,91.0,1
+ORD_10558,2026-10-23,2,Home Cleaning,Zone East,Cancelled_Provider,false,825.16,,,0
+ORD_10559,2026-10-23,14,Salon Services,Zone East,Completed,true,1202.83,5,27.0,0
+ORD_10560,2026-10-22,1,Home Cleaning,Zone West,Completed,true,836.89,4,40.0,0
+ORD_10561,2026-10-21,18,Appliance Repair,Zone North,Cancelled_Provider,false,735.82,,,0
+ORD_10562,2026-10-24,1,Home Cleaning,Zone South,Completed,true,1101.35,3,29.0,0
+ORD_10563,2026-10-20,21,Plumbing,Zone East,Completed,true,333.03,5,28.0,0
+ORD_10564,2026-10-23,23,Appliance Repair,Zone South,Completed,true,520.16,4,47.0,0
+ORD_10565,2026-10-24,15,Plumbing,Zone East,Completed,true,438.32,5,21.0,0
+ORD_10566,2026-10-22,6,Plumbing,Zone South,Cancelled_Customer,true,475.19,,,0
+ORD_10567,2026-10-21,16,Home Cleaning,Zone North,Completed,true,1316.71,5,29.0,0
+ORD_10568,2026-10-26,18,Home Cleaning,Zone East,Completed,true,1114.04,5,33.0,0
+ORD_10569,2026-10-21,17,Salon Services,Zone West,Cancelled_Provider,false,997.43,,,0
+ORD_10570,2026-10-26,1,Home Cleaning,Zone East,Completed,true,918.22,3,37.0,0
+ORD_10571,2026-10-26,4,Salon Services,Zone East,Completed,false,1190.43,5,59.0,0
+ORD_10572,2026-10-25,6,Salon Services,Zone West,Completed,true,1192.42,4,31.0,0
+ORD_10573,2026-10-23,23,Home Cleaning,Zone South,Completed,true,1444.59,4,51.0,0
+ORD_10574,2026-10-21,10,Salon Services,Zone East,Cancelled_Provider,false,687.96,,,0
+ORD_10575,2026-10-24,17,Salon Services,Zone West,Completed,true,1211.32,5,21.0,0
+ORD_10576,2026-10-22,17,Plumbing,Zone South,Completed,true,334.12,4,34.0,0
+ORD_10577,2026-10-24,16,Salon Services,Zone West,Completed,true,932.79,5,28.0,0
+ORD_10578,2026-10-26,2,Salon Services,Zone South,Cancelled_Customer,true,843.05,,,0
+ORD_10579,2026-10-26,16,Appliance Repair,Zone East,Completed,true,432.91,4,27.0,0
+ORD_10580,2026-10-27,3,Salon Services,Zone West,Completed,true,1267.96,4,37.0,0
+ORD_10581,2026-10-21,15,Salon Services,Zone South,Completed,true,976.09,4,21.0,0
+ORD_10582,2026-10-26,2,Plumbing,Zone East,Completed,false,372.59,4,53.0,0
+ORD_10583,2026-10-21,11,Salon Services,Zone West,Completed,true,677.04,5,32.0,0
+ORD_10584,2026-10-20,16,Plumbing,Zone East,Cancelled_Customer,true,645.71,,,0
+ORD_10585,2026-10-23,20,Plumbing,Zone East,Cancelled_Customer,true,456.66,,,0
+ORD_10586,2026-10-24,23,Home Cleaning,Zone North,Completed,true,1115.13,5,22.0,0
+ORD_10587,2026-10-21,22,Home Cleaning,Zone West,Completed,true,1160.29,4,23.0,0
+ORD_10588,2026-10-23,19,Salon Services,Zone West,Completed,true,632.19,5,23.0,0
+ORD_10589,2026-10-21,21,Home Cleaning,Zone North,Completed,true,924.84,3,54.0,0
+ORD_10590,2026-10-23,18,Plumbing,Zone South,Completed,true,652.02,5,40.0,0
+ORD_10591,2026-10-26,2,Home Cleaning,Zone North,Completed,true,878.92,3,43.0,0
+ORD_10592,2026-10-25,19,Appliance Repair,Zone West,Completed,true,674.17,5,30.0,0
+ORD_10593,2026-10-25,3,Appliance Repair,Zone South,Completed,true,488.43,4,46.0,0
+ORD_10594,2026-10-26,2,Appliance Repair,Zone North,Cancelled_Provider,false,848.27,,,0
+ORD_10595,2026-10-21,0,Plumbing,Zone West,Completed,true,641.16,5,20.0,0
+ORD_10596,2026-10-23,17,Plumbing,Zone West,Completed,true,463.06,4,20.0,0
+ORD_10597,2026-10-24,17,Appliance Repair,Zone North,Completed,true,491.42,2,42.0,0
+ORD_10598,2026-10-26,11,Salon Services,Zone East,Completed,true,1235.31,5,46.0,0
+ORD_10599,2026-10-22,0,Appliance Repair,Zone West,Completed,true,773.67,3,22.0,0
+ORD_10600,2026-10-22,18,Home Cleaning,Zone West,Completed,true,1389.32,3,50.0,0
+ORD_10601,2026-10-26,3,Plumbing,Zone South,Completed,true,577.33,5,26.0,0
+ORD_10602,2026-10-25,22,Salon Services,Zone West,Completed,true,986.08,5,53.0,0
+ORD_10603,2026-10-24,19,Plumbing,Zone West,Completed,true,496.00,5,34.0,0
+ORD_10604,2026-10-21,8,Home Cleaning,Zone South,Cancelled_Provider,false,1358.70,,,0
+ORD_10605,2026-10-23,13,Appliance Repair,Zone North,Completed,true,719.31,5,36.0,0
+ORD_10606,2026-10-22,18,Home Cleaning,Zone North,Completed,true,1279.09,5,21.0,0
+ORD_10607,2026-10-21,18,Plumbing,Zone West,Completed,true,617.90,4,50.0,0
+ORD_10608,2026-10-24,3,Salon Services,Zone West,Completed,true,1126.19,5,23.0,0
+ORD_10609,2026-10-22,23,Home Cleaning,Zone South,Completed,true,1203.18,3,42.0,0
+ORD_10610,2026-10-21,18,Plumbing,Zone South,Completed,true,527.39,5,27.0,0
+ORD_10611,2026-10-26,18,Home Cleaning,Zone East,Completed,true,1088.71,4,35.0,0
+ORD_10612,2026-10-27,5,Salon Services,Zone South,Completed,true,588.79,5,32.0,0
+ORD_10613,2026-10-23,22,Appliance Repair,Zone South,Completed,true,569.06,4,53.0,0
+ORD_10614,2026-10-22,16,Appliance Repair,Zone South,Completed,true,761.29,3,53.0,0
+ORD_10615,2026-10-23,4,Home Cleaning,Zone East,Completed,false,1125.81,5,46.0,0
+ORD_10616,2026-10-23,0,Appliance Repair,Zone South,Completed,true,542.28,5,48.0,0
+ORD_10617,2026-10-22,16,Home Cleaning,Zone North,Completed,true,943.60,4,40.0,0
+ORD_10618,2026-10-26,2,Appliance Repair,Zone North,Cancelled_Customer,true,554.69,,,0
+ORD_10619,2026-10-24,21,Plumbing,Zone North,Completed,true,341.37,4,47.0,0
+ORD_10620,2026-10-25,23,Plumbing,Zone East,Completed,true,423.98,3,54.0,0
+ORD_10621,2026-10-27,1,Home Cleaning,Zone West,Completed,true,867.08,4,49.0,0
+ORD_10622,2026-10-21,16,Salon Services,Zone East,Completed,true,812.66,5,41.0,0
+ORD_10623,2026-10-22,21,Plumbing,Zone North,Completed,true,439.58,4,30.0,0
+ORD_10624,2026-10-23,0,Home Cleaning,Zone West,Completed,true,1371.29,5,40.0,0
+ORD_10625,2026-10-21,2,Plumbing,Zone West,Completed,true,394.43,5,30.0,0
+ORD_10626,2026-10-23,14,Plumbing,Zone West,Completed,true,525.88,4,35.0,0
+ORD_10627,2026-10-25,14,Plumbing,Zone North,Completed,true,535.87,3,55.0,0
+ORD_10628,2026-10-23,16,Home Cleaning,Zone West,Completed,true,1028.19,3,23.0,0
+ORD_10629,2026-10-26,16,Home Cleaning,Zone South,Completed,true,1261.62,4,38.0,0
+ORD_10630,2026-10-24,21,Salon Services,Zone East,Cancelled_Customer,true,955.22,,,0
+ORD_10631,2026-10-23,4,Salon Services,Zone North,Completed,true,965.18,4,52.0,0
+ORD_10632,2026-10-22,3,Home Cleaning,Zone North,Completed,true,1291.35,3,42.0,0
+ORD_10633,2026-10-23,3,Plumbing,Zone East,Completed,false,583.71,1,79.0,1
+ORD_10634,2026-10-21,21,Plumbing,Zone East,Completed,true,634.99,3,28.0,0
+ORD_10635,2026-10-21,0,Plumbing,Zone West,Completed,true,688.99,5,28.0,0
+ORD_10636,2026-10-24,3,Plumbing,Zone South,Completed,true,480.76,4,48.0,0
+ORD_10637,2026-10-21,16,Plumbing,Zone South,Completed,true,583.85,5,54.0,0
+ORD_10638,2026-10-21,6,Salon Services,Zone North,Cancelled_Provider,false,963.22,,,0
+ORD_10639,2026-10-20,16,Salon Services,Zone West,Completed,true,912.56,4,25.0,0
+ORD_10640,2026-10-26,1,Salon Services,Zone North,Completed,true,1221.87,4,20.0,0
+ORD_10641,2026-10-25,3,Salon Services,Zone West,Cancelled_Provider,false,781.33,,,0
+ORD_10642,2026-10-22,18,Salon Services,Zone East,Completed,true,548.13,5,30.0,0
+ORD_10643,2026-10-26,6,Home Cleaning,Zone East,Completed,true,1138.33,5,24.0,0
+ORD_10644,2026-10-22,17,Salon Services,Zone East,Completed,true,510.36,5,31.0,0
+ORD_10645,2026-10-25,16,Appliance Repair,Zone East,Completed,true,790.26,5,31.0,0
+ORD_10646,2026-10-26,11,Appliance Repair,Zone West,Completed,true,775.38,4,44.0,0
+ORD_10647,2026-10-24,1,Salon Services,Zone North,Completed,true,1012.81,3,27.0,0
+ORD_10648,2026-10-23,19,Appliance Repair,Zone West,Completed,true,740.75,3,36.0,0
+ORD_10649,2026-10-26,20,Plumbing,Zone West,Cancelled_Provider,false,570.40,,,0
+ORD_10650,2026-10-26,5,Salon Services,Zone West,Completed,true,987.39,4,37.0,0
+ORD_10651,2026-10-23,2,Plumbing,Zone West,Completed,true,608.26,4,32.0,0
+ORD_10652,2026-10-26,1,Home Cleaning,Zone North,Completed,true,1381.18,4,26.0,0
+ORD_10653,2026-10-25,21,Salon Services,Zone East,Completed,true,653.46,3,25.0,0
+ORD_10654,2026-10-25,0,Home Cleaning,Zone North,Completed,true,859.47,5,44.0,0
+ORD_10655,2026-10-25,23,Home Cleaning,Zone South,Completed,true,976.34,5,24.0,0
+ORD_10656,2026-10-23,2,Salon Services,Zone East,Completed,true,628.57,2,69.0,1
+ORD_10657,2026-10-20,17,Appliance Repair,Zone West,Cancelled_Provider,false,433.70,,,0
+ORD_10658,2026-10-22,0,Plumbing,Zone North,Completed,true,356.55,5,33.0,0
+ORD_10659,2026-10-21,3,Home Cleaning,Zone North,Completed,true,850.04,5,36.0,0
+ORD_10660,2026-10-21,3,Home Cleaning,Zone North,Completed,true,1264.22,5,41.0,0
+ORD_10661,2026-10-24,8,Plumbing,Zone West,Completed,true,473.42,4,24.0,0
+ORD_10662,2026-10-20,19,Plumbing,Zone North,Cancelled_Customer,true,525.90,,,0
+ORD_10663,2026-10-22,18,Home Cleaning,Zone North,Completed,true,1054.75,3,41.0,0
+ORD_10664,2026-10-24,1,Appliance Repair,Zone South,Cancelled_Provider,false,676.24,,,0
+ORD_10665,2026-10-25,16,Home Cleaning,Zone East,Cancelled_Customer,true,1139.55,,,0
+ORD_10666,2026-10-24,1,Appliance Repair,Zone North,Completed,true,758.87,4,51.0,0
+ORD_10667,2026-10-26,23,Plumbing,Zone North,Completed,true,313.82,4,22.0,0
+ORD_10668,2026-10-22,2,Plumbing,Zone South,Completed,true,595.42,2,24.0,0
+ORD_10669,2026-10-21,22,Home Cleaning,Zone South,Completed,true,1289.91,5,31.0,0
+ORD_10670,2026-10-23,2,Appliance Repair,Zone North,Completed,true,807.90,5,51.0,0
+ORD_10671,2026-10-24,17,Plumbing,Zone East,Cancelled_Provider,false,623.61,,,0
+ORD_10672,2026-10-25,20,Appliance Repair,Zone East,Completed,true,817.21,5,22.0,0
+ORD_10673,2026-10-22,14,Plumbing,Zone South,Completed,true,577.52,4,48.0,0
+ORD_10674,2026-10-24,12,Plumbing,Zone South,Completed,true,305.25,1,20.0,0
+ORD_10675,2026-10-21,1,Salon Services,Zone West,Completed,true,1053.80,5,50.0,0
+ORD_10676,2026-10-21,16,Plumbing,Zone West,Completed,true,394.70,5,22.0,0
+ORD_10677,2026-10-25,22,Salon Services,Zone East,Completed,true,834.03,3,32.0,0
+ORD_10678,2026-10-25,6,Appliance Repair,Zone West,Completed,true,784.17,3,37.0,0
+ORD_10679,2026-10-21,2,Plumbing,Zone West,Completed,true,369.53,3,22.0,0
+ORD_10680,2026-10-22,18,Salon Services,Zone West,Completed,true,533.65,4,54.0,0
+ORD_10681,2026-10-26,11,Home Cleaning,Zone South,Completed,true,1303.98,4,40.0,0
+ORD_10682,2026-10-26,0,Home Cleaning,Zone East,Completed,true,958.45,5,46.0,0
+ORD_10683,2026-10-24,3,Plumbing,Zone North,Completed,true,655.20,4,49.0,0
+ORD_10684,2026-10-22,16,Salon Services,Zone East,Completed,true,660.77,4,23.0,0
+ORD_10685,2026-10-21,3,Appliance Repair,Zone East,Completed,true,508.93,3,95.0,1
+ORD_10686,2026-10-25,3,Appliance Repair,Zone North,Completed,true,604.85,5,33.0,0
+ORD_10687,2026-10-26,21,Plumbing,Zone South,Completed,true,398.13,5,34.0,0
+ORD_10688,2026-10-25,4,Home Cleaning,Zone West,Completed,true,1485.13,5,50.0,0
+ORD_10689,2026-10-24,11,Plumbing,Zone North,Completed,true,479.98,5,55.0,0
+ORD_10690,2026-10-26,1,Salon Services,Zone East,Cancelled_Provider,false,690.25,,,0
+ORD_10691,2026-10-20,21,Plumbing,Zone North,Completed,true,689.57,5,28.0,0
+ORD_10692,2026-10-23,16,Plumbing,Zone North,Completed,true,643.15,4,41.0,0
+ORD_10693,2026-10-22,20,Appliance Repair,Zone North,Completed,true,709.23,4,23.0,0
+ORD_10694,2026-10-25,19,Plumbing,Zone East,Completed,true,485.14,4,43.0,0
+ORD_10695,2026-10-25,1,Appliance Repair,Zone South,Completed,true,889.63,5,27.0,0
+ORD_10696,2026-10-26,4,Appliance Repair,Zone South,Cancelled_Customer,true,559.23,,,0
+ORD_10697,2026-10-25,1,Home Cleaning,Zone East,Completed,true,1040.66,5,53.0,0
+ORD_10698,2026-10-24,1,Salon Services,Zone West,Completed,true,995.76,4,24.0,0
+ORD_10699,2026-10-23,15,Appliance Repair,Zone East,Completed,true,878.13,4,30.0,0
+ORD_10700,2026-10-25,16,Appliance Repair,Zone North,Cancelled_Provider,false,545.58,,,0
+ORD_10701,2026-10-25,4,Plumbing,Zone West,Completed,true,594.08,3,32.0,0
+ORD_10702,2026-10-27,2,Salon Services,Zone West,Completed,true,961.96,4,40.0,0
+ORD_10703,2026-10-26,1,Plumbing,Zone West,Completed,true,420.63,4,39.0,0
+ORD_10704,2026-10-22,17,Home Cleaning,Zone South,Completed,true,1046.18,5,30.0,0
+ORD_10705,2026-10-22,1,Appliance Repair,Zone South,Completed,true,479.63,5,40.0,0
+ORD_10706,2026-10-23,17,Home Cleaning,Zone East,Completed,true,1483.62,4,48.0,0
+ORD_10707,2026-10-21,22,Home Cleaning,Zone West,Completed,true,1450.75,5,49.0,0
+ORD_10708,2026-10-21,8,Salon Services,Zone East,Completed,true,878.13,5,29.0,0
+ORD_10709,2026-10-26,3,Home Cleaning,Zone West,Completed,true,1429.12,3,55.0,0
+ORD_10710,2026-10-20,20,Plumbing,Zone East,Completed,true,335.99,5,32.0,0
+ORD_10711,2026-10-22,2,Appliance Repair,Zone North,Completed,true,440.79,5,25.0,0
+ORD_10712,2026-10-23,16,Home Cleaning,Zone East,Completed,true,1077.29,4,47.0,0
+ORD_10713,2026-10-22,9,Salon Services,Zone West,Completed,true,1198.44,5,48.0,0
+ORD_10714,2026-10-24,2,Plumbing,Zone West,Completed,true,354.83,3,25.0,0
+ORD_10715,2026-10-22,21,Salon Services,Zone North,Completed,true,1245.52,3,44.0,0
+ORD_10716,2026-10-24,0,Appliance Repair,Zone West,Completed,true,754.12,4,28.0,0
+ORD_10717,2026-10-26,19,Home Cleaning,Zone East,Completed,true,1383.21,5,55.0,0
+ORD_10718,2026-10-21,11,Salon Services,Zone East,Completed,true,1263.82,3,50.0,0
+ORD_10719,2026-10-26,3,Plumbing,Zone South,Completed,true,310.38,5,51.0,0
+ORD_10720,2026-10-20,23,Plumbing,Zone West,Completed,true,646.34,5,50.0,0
+ORD_10721,2026-10-26,15,Home Cleaning,Zone East,Completed,true,912.99,4,40.0,0
+ORD_10722,2026-10-25,16,Salon Services,Zone East,Cancelled_Customer,true,834.61,,,0
+ORD_10723,2026-10-22,13,Home Cleaning,Zone South,Completed,true,1335.51,5,26.0,0
+ORD_10724,2026-10-21,23,Salon Services,Zone East,Completed,true,1047.35,4,26.0,0
+ORD_10725,2026-10-23,2,Salon Services,Zone East,Completed,true,1122.05,4,51.0,0
+ORD_10726,2026-10-24,17,Home Cleaning,Zone West,Completed,true,1121.34,5,28.0,0
+ORD_10727,2026-10-23,19,Appliance Repair,Zone West,Completed,true,843.86,4,41.0,0
+ORD_10728,2026-10-22,11,Appliance Repair,Zone South,Completed,true,827.41,4,34.0,0
+ORD_10729,2026-10-21,15,Home Cleaning,Zone North,Completed,true,812.16,2,47.0,0
+ORD_10730,2026-10-20,11,Home Cleaning,Zone West,Completed,true,882.25,4,24.0,0
+ORD_10731,2026-10-21,1,Appliance Repair,Zone South,Completed,true,491.39,3,25.0,0
+ORD_10732,2026-10-26,4,Salon Services,Zone South,Completed,true,1183.11,4,35.0,0
+ORD_10733,2026-10-20,15,Home Cleaning,Zone South,Cancelled_Provider,false,1300.07,,,0
+ORD_10734,2026-10-22,3,Home Cleaning,Zone South,Completed,true,1443.33,4,50.0,0
+ORD_10735,2026-10-24,16,Appliance Repair,Zone East,Completed,true,889.65,4,52.0,0
+ORD_10736,2026-10-21,1,Plumbing,Zone North,Completed,true,506.89,5,43.0,0
+ORD_10737,2026-10-25,1,Plumbing,Zone North,Completed,true,452.91,5,39.0,0
+ORD_10738,2026-10-26,21,Salon Services,Zone West,Completed,true,650.03,5,50.0,0
+ORD_10739,2026-10-22,16,Home Cleaning,Zone West,Completed,true,1105.64,3,25.0,0
+ORD_10740,2026-10-23,20,Appliance Repair,Zone North,Completed,true,580.85,5,32.0,0
+ORD_10741,2026-10-23,15,Plumbing,Zone East,Completed,true,604.93,5,37.0,0
+ORD_10742,2026-10-27,0,Plumbing,Zone West,Completed,true,694.01,5,29.0,0
+ORD_10743,2026-10-20,15,Appliance Repair,Zone South,Completed,true,413.86,4,24.0,0
+ORD_10744,2026-10-21,5,Salon Services,Zone South,Completed,true,741.20,5,24.0,0
+ORD_10745,2026-10-25,2,Appliance Repair,Zone East,Completed,false,730.05,2,79.0,1
+ORD_10746,2026-10-26,23,Home Cleaning,Zone West,Completed,true,1415.09,4,48.0,0
+ORD_10747,2026-10-23,20,Appliance Repair,Zone East,Completed,true,841.35,3,47.0,0
+ORD_10748,2026-10-25,19,Plumbing,Zone West,Completed,true,489.36,3,52.0,0
+ORD_10749,2026-10-22,22,Salon Services,Zone East,Completed,true,755.39,3,22.0,0
+ORD_10750,2026-10-22,19,Home Cleaning,Zone East,Completed,true,1065.40,4,42.0,0
+ORD_10751,2026-10-21,0,Salon Services,Zone North,Completed,true,1227.31,3,39.0,0
+ORD_10752,2026-10-21,10,Plumbing,Zone West,Cancelled_Customer,true,526.22,,,0
+ORD_10753,2026-10-22,10,Home Cleaning,Zone East,Completed,true,1063.42,5,26.0,0
+ORD_10754,2026-10-21,1,Plumbing,Zone East,Completed,true,365.65,4,47.0,0
+ORD_10755,2026-10-26,3,Appliance Repair,Zone East,Completed,false,531.58,5,59.0,0
+ORD_10756,2026-10-21,1,Salon Services,Zone East,Completed,true,552.82,4,50.0,0
+ORD_10757,2026-10-23,2,Salon Services,Zone East,Cancelled_Customer,true,845.33,,,0
+ORD_10758,2026-10-23,20,Plumbing,Zone South,Completed,true,651.36,5,53.0,0
+ORD_10759,2026-10-24,22,Plumbing,Zone East,Completed,true,673.87,5,47.0,0
+ORD_10760,2026-10-26,0,Salon Services,Zone West,Completed,true,617.19,5,39.0,0
+ORD_10761,2026-10-23,18,Home Cleaning,Zone South,Completed,true,1391.18,5,38.0,0
+ORD_10762,2026-10-23,1,Appliance Repair,Zone North,Completed,true,473.98,4,39.0,0
+ORD_10763,2026-10-25,6,Home Cleaning,Zone South,Completed,true,910.55,5,36.0,0
+ORD_10764,2026-10-23,0,Home Cleaning,Zone West,Completed,true,1346.56,4,25.0,0
+ORD_10765,2026-10-23,3,Salon Services,Zone North,Completed,true,816.52,4,28.0,0
+ORD_10766,2026-10-25,1,Salon Services,Zone West,Completed,true,1206.65,5,27.0,0
+ORD_10767,2026-10-22,18,Plumbing,Zone South,Completed,true,673.20,4,26.0,0
+ORD_10768,2026-10-22,20,Home Cleaning,Zone West,Completed,true,1172.43,4,27.0,0
+ORD_10769,2026-10-23,21,Appliance Repair,Zone East,Completed,true,636.61,2,39.0,0
+ORD_10770,2026-10-24,12,Home Cleaning,Zone South,Completed,true,976.09,5,43.0,0
+ORD_10771,2026-10-25,15,Plumbing,Zone West,Cancelled_Provider,false,302.15,,,0
+ORD_10772,2026-10-22,18,Appliance Repair,Zone East,Cancelled_Customer,true,504.19,,,0
+ORD_10773,2026-10-24,0,Plumbing,Zone North,Completed,true,408.61,4,51.0,0
+ORD_10774,2026-10-24,4,Plumbing,Zone North,Completed,true,628.76,3,52.0,0
+ORD_10775,2026-10-24,0,Salon Services,Zone West,Completed,true,1055.17,5,31.0,0
+ORD_10776,2026-10-27,0,Appliance Repair,Zone East,Completed,true,555.86,4,30.0,0
+ORD_10777,2026-10-26,5,Appliance Repair,Zone West,Completed,true,795.32,5,50.0,0
+ORD_10778,2026-10-21,17,Salon Services,Zone East,Completed,true,657.93,4,31.0,0
+ORD_10779,2026-10-24,4,Appliance Repair,Zone North,Cancelled_Customer,true,873.05,,,0
+ORD_10780,2026-10-26,0,Home Cleaning,Zone West,Completed,true,937.79,2,30.0,0
+ORD_10781,2026-10-24,20,Home Cleaning,Zone East,Completed,true,918.09,5,20.0,0
+ORD_10782,2026-10-24,2,Plumbing,Zone North,Completed,true,388.79,4,37.0,0
+ORD_10783,2026-10-23,19,Appliance Repair,Zone South,Completed,true,896.60,4,32.0,0
+ORD_10784,2026-10-24,2,Salon Services,Zone South,Cancelled_Customer,true,993.14,,,0
+ORD_10785,2026-10-22,23,Home Cleaning,Zone North,Completed,true,1127.22,5,45.0,0
+ORD_10786,2026-10-25,19,Salon Services,Zone North,Completed,true,575.22,5,41.0,0
+ORD_10787,2026-10-24,3,Home Cleaning,Zone North,Completed,true,976.56,5,39.0,0
+ORD_10788,2026-10-25,19,Home Cleaning,Zone South,Completed,true,981.20,5,41.0,0
+ORD_10789,2026-10-21,15,Plumbing,Zone South,Completed,true,403.16,4,28.0,0
+ORD_10790,2026-10-26,18,Plumbing,Zone East,Completed,true,660.12,4,36.0,0
+ORD_10791,2026-10-24,3,Plumbing,Zone South,Cancelled_Customer,true,521.27,,,0
+ORD_10792,2026-10-26,2,Appliance Repair,Zone North,Completed,true,513.93,4,36.0,0
+ORD_10793,2026-10-23,20,Plumbing,Zone North,Cancelled_Provider,false,475.61,,,0
+ORD_10794,2026-10-24,21,Appliance Repair,Zone North,Completed,true,573.80,4,38.0,0
+ORD_10795,2026-10-22,1,Appliance Repair,Zone North,Completed,true,662.01,5,46.0,0
+ORD_10796,2026-10-22,2,Salon Services,Zone North,Cancelled_Provider,false,726.43,,,0
+ORD_10797,2026-10-20,19,Home Cleaning,Zone East,Completed,true,906.64,4,50.0,0
+ORD_10798,2026-10-22,23,Home Cleaning,Zone West,Completed,true,1026.44,4,28.0,0
+ORD_10799,2026-10-21,2,Home Cleaning,Zone North,Completed,true,1182.01,4,25.0,0
+ORD_10800,2026-10-21,17,Plumbing,Zone North,Completed,true,307.20,5,44.0,0
+ORD_10801,2026-10-23,0,Home Cleaning,Zone East,Completed,true,1142.59,5,39.0,0
+ORD_10802,2026-10-24,16,Salon Services,Zone South,Cancelled_Customer,true,890.70,,,0
+ORD_10803,2026-10-23,17,Home Cleaning,Zone West,Completed,true,1366.70,5,47.0,0
+ORD_10804,2026-10-20,12,Appliance Repair,Zone South,Completed,true,864.33,3,53.0,0
+ORD_10805,2026-10-23,20,Plumbing,Zone East,Completed,true,358.44,5,39.0,0
+ORD_10806,2026-10-24,20,Home Cleaning,Zone North,Completed,true,1158.39,3,46.0,0
+ORD_10807,2026-10-26,1,Salon Services,Zone East,Completed,true,967.45,3,21.0,0
+ORD_10808,2026-10-25,21,Plumbing,Zone North,Completed,true,332.32,4,39.0,0
+ORD_10809,2026-10-25,21,Salon Services,Zone East,Completed,true,1272.38,4,31.0,0
+ORD_10810,2026-10-21,1,Home Cleaning,Zone West,Completed,true,1173.06,1,27.0,0
+ORD_10811,2026-10-25,21,Plumbing,Zone East,Cancelled_Provider,false,546.40,,,0
+ORD_10812,2026-10-23,1,Plumbing,Zone East,Completed,true,334.05,3,32.0,0
+ORD_10813,2026-10-21,1,Home Cleaning,Zone South,Completed,true,1135.78,4,35.0,0
+ORD_10814,2026-10-26,3,Home Cleaning,Zone East,Completed,false,1337.80,3,46.0,0
+ORD_10815,2026-10-22,1,Plumbing,Zone North,Completed,true,642.92,4,32.0,0
+ORD_10816,2026-10-27,2,Home Cleaning,Zone North,Completed,true,1240.29,5,46.0,0
+ORD_10817,2026-10-25,23,Salon Services,Zone North,Completed,true,889.00,4,51.0,0
+ORD_10818,2026-10-20,22,Salon Services,Zone North,Completed,true,713.28,3,50.0,0
+ORD_10819,2026-10-25,4,Plumbing,Zone North,Completed,true,363.53,4,50.0,0
+ORD_10820,2026-10-21,22,Salon Services,Zone West,Completed,true,603.93,5,44.0,0
+ORD_10821,2026-10-27,4,Salon Services,Zone West,Completed,true,1138.80,4,33.0,0
+ORD_10822,2026-10-25,14,Appliance Repair,Zone South,Completed,true,477.16,5,46.0,0
+ORD_10823,2026-10-23,18,Home Cleaning,Zone North,Completed,true,1050.15,4,30.0,0
+ORD_10824,2026-10-27,3,Home Cleaning,Zone East,Cancelled_Customer,true,1100.43,,,0
+ORD_10825,2026-10-24,17,Salon Services,Zone North,Completed,true,1115.08,5,29.0,0
+ORD_10826,2026-10-26,22,Home Cleaning,Zone West,Cancelled_Provider,false,1358.29,,,0
+ORD_10827,2026-10-26,15,Home Cleaning,Zone North,Completed,true,1154.11,5,27.0,0
+ORD_10828,2026-10-22,16,Plumbing,Zone West,Completed,true,592.02,4,43.0,0
+ORD_10829,2026-10-21,15,Plumbing,Zone North,Completed,true,397.13,4,41.0,0
+ORD_10830,2026-10-21,14,Plumbing,Zone East,Completed,true,550.78,4,53.0,0
+ORD_10831,2026-10-21,16,Plumbing,Zone West,Completed,true,679.74,5,43.0,0
+ORD_10832,2026-10-23,16,Home Cleaning,Zone North,Completed,true,1035.81,4,30.0,0
+ORD_10833,2026-10-24,1,Appliance Repair,Zone North,Cancelled_Provider,false,887.87,,,0
+ORD_10834,2026-10-27,0,Plumbing,Zone West,Completed,true,653.31,5,39.0,0
+ORD_10835,2026-10-23,3,Salon Services,Zone South,Completed,true,1059.24,5,33.0,0
+ORD_10836,2026-10-25,2,Salon Services,Zone West,Cancelled_Customer,true,1119.32,,,0
+ORD_10837,2026-10-20,12,Appliance Repair,Zone East,Completed,true,505.87,4,39.0,0
+ORD_10838,2026-10-27,0,Salon Services,Zone South,Completed,true,1164.78,5,47.0,0
+ORD_10839,2026-10-21,1,Salon Services,Zone East,Completed,true,598.05,4,27.0,0
+ORD_10840,2026-10-25,1,Appliance Repair,Zone South,Completed,true,574.17,5,28.0,0
+ORD_10841,2026-10-25,1,Appliance Repair,Zone East,Completed,true,626.15,5,47.0,0
+ORD_10842,2026-10-20,15,Appliance Repair,Zone West,Completed,true,506.39,4,53.0,0
+ORD_10843,2026-10-24,22,Salon Services,Zone West,Cancelled_Provider,false,1008.17,,,0
+ORD_10844,2026-10-26,4,Plumbing,Zone South,Completed,true,356.74,3,49.0,0
+ORD_10845,2026-10-25,22,Appliance Repair,Zone West,Completed,true,635.68,4,55.0,0
+ORD_10846,2026-10-21,0,Home Cleaning,Zone East,Completed,true,1199.24,3,29.0,0
+ORD_10847,2026-10-23,6,Plumbing,Zone North,Completed,true,615.48,2,46.0,0
+ORD_10848,2026-10-23,3,Plumbing,Zone North,Completed,true,347.93,4,22.0,0
+ORD_10849,2026-10-24,18,Salon Services,Zone West,Completed,true,879.18,5,28.0,0
+ORD_10850,2026-10-25,0,Plumbing,Zone South,Completed,true,645.54,4,46.0,0
+ORD_10851,2026-10-23,18,Plumbing,Zone East,Completed,true,557.37,5,21.0,0
+ORD_10852,2026-10-27,2,Home Cleaning,Zone North,Completed,true,933.70,5,23.0,0
+ORD_10853,2026-10-24,16,Home Cleaning,Zone North,Completed,true,1259.78,4,21.0,0
+ORD_10854,2026-10-21,17,Plumbing,Zone North,Completed,true,621.77,5,45.0,0
+ORD_10855,2026-10-24,3,Plumbing,Zone South,Completed,true,464.97,4,40.0,0
+ORD_10856,2026-10-20,15,Appliance Repair,Zone East,Completed,true,471.02,4,25.0,0
+ORD_10857,2026-10-24,1,Salon Services,Zone South,Completed,true,520.74,3,44.0,0
+ORD_10858,2026-10-21,20,Plumbing,Zone North,Completed,true,319.75,4,35.0,0
+ORD_10859,2026-10-26,22,Home Cleaning,Zone East,Completed,true,1124.38,2,50.0,0
+ORD_10860,2026-10-25,17,Salon Services,Zone North,Completed,true,696.05,4,28.0,0
+ORD_10861,2026-10-23,21,Appliance Repair,Zone South,Cancelled_Provider,false,585.65,,,0
+ORD_10862,2026-10-26,17,Plumbing,Zone North,Completed,true,299.40,5,38.0,0
+ORD_10863,2026-10-21,8,Plumbing,Zone East,Completed,true,538.15,5,44.0,0
+ORD_10864,2026-10-27,0,Salon Services,Zone North,Completed,true,628.13,4,24.0,0
+ORD_10865,2026-10-24,1,Salon Services,Zone West,Completed,true,667.68,5,40.0,0
+ORD_10866,2026-10-23,0,Plumbing,Zone East,Cancelled_Provider,false,397.37,,,0
+ORD_10867,2026-10-22,17,Home Cleaning,Zone South,Completed,true,1251.51,1,50.0,0
+ORD_10868,2026-10-21,0,Plumbing,Zone West,Completed,true,514.25,4,24.0,0
+ORD_10869,2026-10-27,2,Home Cleaning,Zone East,Completed,false,1479.43,1,69.0,1
+ORD_10870,2026-10-27,2,Plumbing,Zone East,Completed,true,673.50,1,92.0,1
+ORD_10871,2026-10-23,1,Appliance Repair,Zone North,Completed,true,807.14,4,34.0,0
+ORD_10872,2026-10-24,5,Plumbing,Zone South,Cancelled_Provider,false,301.85,,,0
+ORD_10873,2026-10-25,19,Plumbing,Zone South,Completed,true,519.71,3,31.0,0
+ORD_10874,2026-10-22,1,Appliance Repair,Zone East,Completed,true,494.93,5,54.0,0
+ORD_10875,2026-10-25,23,Plumbing,Zone North,Completed,true,640.54,4,46.0,0
+ORD_10876,2026-10-25,22,Home Cleaning,Zone South,Cancelled_Customer,true,831.88,,,0
+ORD_10877,2026-10-24,21,Appliance Repair,Zone East,Completed,true,439.90,5,21.0,0
+ORD_10878,2026-10-22,6,Appliance Repair,Zone South,Completed,true,481.24,2,26.0,0
+ORD_10879,2026-10-24,2,Salon Services,Zone East,Completed,false,696.72,5,48.0,0
+ORD_10880,2026-10-25,2,Plumbing,Zone North,Completed,true,549.14,5,25.0,0
+ORD_10881,2026-10-20,19,Home Cleaning,Zone South,Completed,true,842.40,4,23.0,0
+ORD_10882,2026-10-25,20,Home Cleaning,Zone North,Completed,true,1005.44,5,26.0,0
+ORD_10883,2026-10-23,17,Home Cleaning,Zone West,Completed,true,1067.74,4,26.0,0
+ORD_10884,2026-10-26,2,Salon Services,Zone South,Completed,true,585.41,5,24.0,0
+ORD_10885,2026-10-26,16,Salon Services,Zone East,Completed,true,835.81,4,48.0,0
+ORD_10886,2026-10-22,2,Salon Services,Zone West,Completed,true,909.50,4,42.0,0
+ORD_10887,2026-10-25,2,Salon Services,Zone East,Cancelled_Provider,false,731.85,,,0
+ORD_10888,2026-10-24,23,Home Cleaning,Zone South,Completed,true,1153.98,4,23.0,0
+ORD_10889,2026-10-22,6,Appliance Repair,Zone North,Completed,true,569.78,5,49.0,0
+ORD_10890,2026-10-23,3,Salon Services,Zone West,Completed,true,761.90,4,22.0,0
+ORD_10891,2026-10-21,0,Plumbing,Zone South,Completed,true,394.61,5,41.0,0
+ORD_10892,2026-10-23,17,Home Cleaning,Zone East,Completed,true,805.92,3,55.0,0
+ORD_10893,2026-10-22,20,Salon Services,Zone North,Completed,true,1279.25,4,38.0,0
+ORD_10894,2026-10-23,1,Appliance Repair,Zone South,Completed,true,496.99,5,36.0,0
+ORD_10895,2026-10-21,2,Home Cleaning,Zone East,Completed,true,1454.28,3,68.0,1
+ORD_10896,2026-10-25,16,Plumbing,Zone North,Cancelled_Customer,true,346.40,,,0
+ORD_10897,2026-10-22,2,Plumbing,Zone East,Completed,true,426.18,5,47.0,0
+ORD_10898,2026-10-24,16,Appliance Repair,Zone East,Completed,true,522.59,5,37.0,0
+ORD_10899,2026-10-26,22,Plumbing,Zone South,Completed,true,589.92,4,24.0,0
+ORD_10900,2026-10-24,1,Salon Services,Zone West,Completed,true,914.11,4,43.0,0
+ORD_10901,2026-10-24,1,Salon Services,Zone West,Completed,true,1009.48,4,22.0,0
+ORD_10902,2026-10-21,21,Appliance Repair,Zone East,Completed,true,611.51,5,30.0,0
+ORD_10903,2026-10-22,17,Home Cleaning,Zone East,Completed,true,1110.15,4,22.0,0
+ORD_10904,2026-10-24,18,Plumbing,Zone West,Completed,true,446.00,4,37.0,0
+ORD_10905,2026-10-21,20,Home Cleaning,Zone East,Completed,true,1430.03,4,52.0,0
+ORD_10906,2026-10-25,14,Appliance Repair,Zone North,Completed,true,458.29,4,54.0,0
+ORD_10907,2026-10-22,0,Salon Services,Zone South,Cancelled_Provider,false,1063.51,,,0
+ORD_10908,2026-10-27,1,Salon Services,Zone North,Completed,true,1115.06,5,42.0,0
+ORD_10909,2026-10-24,4,Home Cleaning,Zone West,Cancelled_Provider,false,1256.86,,,0
+ORD_10910,2026-10-22,3,Appliance Repair,Zone West,Completed,true,515.86,5,55.0,0
+ORD_10911,2026-10-26,2,Home Cleaning,Zone East,Completed,false,1391.06,4,58.0,0
+ORD_10912,2026-10-26,23,Appliance Repair,Zone East,Completed,true,870.68,4,42.0,0
+ORD_10913,2026-10-23,20,Salon Services,Zone East,Completed,true,968.56,5,22.0,0
+ORD_10914,2026-10-22,6,Plumbing,Zone West,Completed,true,380.68,4,54.0,0
+ORD_10915,2026-10-23,15,Salon Services,Zone North,Completed,true,636.14,2,31.0,0
+ORD_10916,2026-10-26,0,Appliance Repair,Zone North,Completed,true,854.67,4,33.0,0
+ORD_10917,2026-10-25,22,Salon Services,Zone North,Completed,true,636.46,4,46.0,0
+ORD_10918,2026-10-20,15,Home Cleaning,Zone West,Completed,true,1467.57,5,28.0,0
+ORD_10919,2026-10-22,20,Plumbing,Zone South,Cancelled_Customer,true,540.48,,,0
+ORD_10920,2026-10-24,17,Plumbing,Zone East,Cancelled_Provider,false,379.68,,,0
+ORD_10921,2026-10-23,14,Appliance Repair,Zone East,Completed,true,854.15,4,49.0,0
+ORD_10922,2026-10-21,1,Plumbing,Zone East,Completed,true,579.13,4,39.0,0
+ORD_10923,2026-10-27,2,Appliance Repair,Zone South,Completed,true,848.98,4,49.0,0
+ORD_10924,2026-10-25,16,Plumbing,Zone North,Completed,true,394.88,5,37.0,0
+ORD_10925,2026-10-24,18,Appliance Repair,Zone West,Completed,true,604.64,5,27.0,0
+ORD_10926,2026-10-21,1,Salon Services,Zone West,Completed,true,859.75,2,52.0,0
+ORD_10927,2026-10-20,14,Plumbing,Zone West,Completed,true,436.46,4,32.0,0
+ORD_10928,2026-10-20,17,Appliance Repair,Zone East,Completed,true,734.15,3,49.0,0
+ORD_10929,2026-10-25,0,Appliance Repair,Zone West,Completed,true,809.21,5,30.0,0
+ORD_10930,2026-10-24,15,Plumbing,Zone South,Completed,true,330.03,4,37.0,0
+ORD_10931,2026-10-22,16,Appliance Repair,Zone West,Completed,true,747.37,5,53.0,0
+ORD_10932,2026-10-26,0,Salon Services,Zone West,Completed,true,540.93,5,44.0,0
+ORD_10933,2026-10-21,19,Home Cleaning,Zone North,Cancelled_Provider,false,1094.18,,,0
+ORD_10934,2026-10-23,2,Home Cleaning,Zone South,Completed,true,1470.12,5,30.0,0
+ORD_10935,2026-10-20,20,Salon Services,Zone East,Completed,true,948.64,5,33.0,0
+ORD_10936,2026-10-24,4,Appliance Repair,Zone North,Completed,true,577.29,5,45.0,0
+ORD_10937,2026-10-20,19,Home Cleaning,Zone East,Completed,true,1253.96,5,24.0,0
+ORD_10938,2026-10-23,18,Home Cleaning,Zone South,Completed,true,975.36,5,40.0,0
+ORD_10939,2026-10-25,19,Appliance Repair,Zone East,Completed,true,486.67,5,40.0,0
+ORD_10940,2026-10-25,21,Plumbing,Zone West,Completed,true,503.41,5,52.0,0
+ORD_10941,2026-10-20,17,Home Cleaning,Zone East,Completed,true,964.48,5,35.0,0
+ORD_10942,2026-10-20,16,Appliance Repair,Zone South,Completed,true,586.87,5,35.0,0
+ORD_10943,2026-10-25,6,Salon Services,Zone South,Completed,true,721.50,4,22.0,0
+ORD_10944,2026-10-24,0,Home Cleaning,Zone South,Completed,true,1391.85,4,35.0,0
+ORD_10945,2026-10-21,3,Appliance Repair,Zone West,Completed,true,659.74,3,20.0,0
+ORD_10946,2026-10-23,14,Appliance Repair,Zone South,Completed,true,461.78,5,55.0,0
+ORD_10947,2026-10-21,17,Plumbing,Zone East,Completed,true,364.66,4,47.0,0
+ORD_10948,2026-10-21,18,Appliance Repair,Zone East,Completed,true,830.21,4,43.0,0
+ORD_10949,2026-10-21,21,Plumbing,Zone South,Completed,true,626.84,5,21.0,0
+ORD_10950,2026-10-24,3,Salon Services,Zone South,Completed,true,941.28,4,44.0,0
+ORD_10951,2026-10-23,18,Plumbing,Zone North,Completed,true,432.29,4,32.0,0
+ORD_10952,2026-10-21,8,Salon Services,Zone West,Completed,true,822.64,5,45.0,0
+ORD_10953,2026-10-22,19,Home Cleaning,Zone West,Cancelled_Provider,false,1418.50,,,0
+ORD_10954,2026-10-20,19,Appliance Repair,Zone West,Completed,true,877.55,4,42.0,0
+ORD_10955,2026-10-24,0,Home Cleaning,Zone West,Completed,true,1447.56,4,35.0,0
+ORD_10956,2026-10-26,19,Home Cleaning,Zone South,Completed,true,981.93,4,29.0,0
+ORD_10957,2026-10-24,23,Appliance Repair,Zone North,Completed,true,457.37,4,44.0,0
+ORD_10958,2026-10-25,6,Appliance Repair,Zone West,Completed,true,481.91,4,39.0,0
+ORD_10959,2026-10-25,0,Salon Services,Zone West,Cancelled_Customer,true,1100.97,,,0
+ORD_10960,2026-10-26,15,Salon Services,Zone South,Completed,true,714.22,5,45.0,0
+ORD_10961,2026-10-21,6,Home Cleaning,Zone North,Completed,true,847.89,4,53.0,0
+ORD_10962,2026-10-23,1,Salon Services,Zone South,Completed,true,1062.24,4,31.0,0
+ORD_10963,2026-10-20,21,Appliance Repair,Zone South,Completed,true,428.49,4,32.0,0
+ORD_10964,2026-10-26,20,Home Cleaning,Zone South,Completed,true,854.87,4,27.0,0
+ORD_10965,2026-10-22,11,Plumbing,Zone North,Completed,true,302.80,5,20.0,0
+ORD_10966,2026-10-27,6,Home Cleaning,Zone West,Cancelled_Provider,false,1221.09,,,0
+ORD_10967,2026-10-26,17,Salon Services,Zone West,Completed,true,768.24,5,41.0,0
+ORD_10968,2026-10-26,17,Plumbing,Zone West,Cancelled_Provider,false,543.32,,,0
+ORD_10969,2026-10-26,18,Plumbing,Zone West,Cancelled_Customer,true,589.09,,,0
+ORD_10970,2026-10-21,10,Salon Services,Zone South,Completed,true,793.74,4,50.0,0
+ORD_10971,2026-10-25,16,Salon Services,Zone North,Completed,true,1006.02,5,40.0,0
+ORD_10972,2026-10-22,0,Home Cleaning,Zone East,Cancelled_Customer,true,1098.54,,,0
+ORD_10973,2026-10-24,6,Home Cleaning,Zone West,Completed,true,1004.70,5,29.0,0
+ORD_10974,2026-10-25,2,Home Cleaning,Zone South,Completed,true,1147.55,5,55.0,0
+ORD_10975,2026-10-23,16,Plumbing,Zone South,Completed,true,396.34,3,25.0,0
+ORD_10976,2026-10-25,11,Salon Services,Zone West,Completed,true,1112.05,5,36.0,0
+ORD_10977,2026-10-25,15,Plumbing,Zone North,Completed,true,617.22,5,34.0,0
+ORD_10978,2026-10-27,4,Salon Services,Zone West,Completed,true,1227.13,5,44.0,0
+ORD_10979,2026-10-26,23,Appliance Repair,Zone South,Completed,true,528.55,3,27.0,0
+ORD_10980,2026-10-25,23,Home Cleaning,Zone East,Completed,true,888.19,5,44.0,0
+ORD_10981,2026-10-20,18,Appliance Repair,Zone West,Completed,true,888.92,5,43.0,0
+ORD_10982,2026-10-26,15,Appliance Repair,Zone North,Completed,true,596.66,4,49.0,0
+ORD_10983,2026-10-27,4,Plumbing,Zone West,Completed,true,357.97,5,22.0,0
+ORD_10984,2026-10-22,22,Salon Services,Zone West,Completed,true,1003.86,5,38.0,0
+ORD_10985,2026-10-23,13,Appliance Repair,Zone South,Cancelled_Customer,true,823.03,,,0
+ORD_10986,2026-10-22,1,Appliance Repair,Zone West,Completed,true,762.70,5,30.0,0
+ORD_10987,2026-10-24,19,Plumbing,Zone East,Completed,true,602.09,5,53.0,0
+ORD_10988,2026-10-23,1,Plumbing,Zone North,Completed,true,351.36,5,23.0,0
+ORD_10989,2026-10-25,18,Appliance Repair,Zone West,Completed,true,746.98,4,29.0,0
+ORD_10990,2026-10-27,1,Home Cleaning,Zone East,Completed,true,1307.17,4,29.0,0
+ORD_10991,2026-10-24,1,Home Cleaning,Zone North,Completed,true,1047.91,3,23.0,0
+ORD_10992,2026-10-25,0,Appliance Repair,Zone West,Completed,true,521.50,4,45.0,0
+ORD_10993,2026-10-25,23,Plumbing,Zone North,Completed,true,610.09,4,44.0,0
+ORD_10994,2026-10-25,21,Home Cleaning,Zone North,Completed,true,884.44,4,52.0,0
+ORD_10995,2026-10-24,23,Salon Services,Zone North,Completed,true,1134.47,5,50.0,0
+ORD_10996,2026-10-25,20,Home Cleaning,Zone East,Cancelled_Customer,true,843.45,,,0
+ORD_10997,2026-10-26,22,Home Cleaning,Zone West,Completed,true,1188.24,4,53.0,0
+ORD_10998,2026-10-25,2,Home Cleaning,Zone South,Cancelled_Customer,true,1474.98,,,0
+ORD_10999,2026-10-22,3,Home Cleaning,Zone West,Completed,true,1359.36,5,28.0,0
+ORD_11000,2026-10-25,16,Home Cleaning,Zone North,Completed,true,1484.95,5,43.0,0
